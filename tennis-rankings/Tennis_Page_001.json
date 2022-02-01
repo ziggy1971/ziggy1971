@@ -1,883 +1,834 @@
 [
   {
-    "id": 25,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "ruud-c",
-    "name": "Ruud C.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/ruud-c.png",
-    "name_translations": {
-      "en": "Ruud C.",
-      "ru": "Рууд, Каспер",
-      "es": "Ruud, Casper",
-      "fr": "Ruud, Casper",
-      "zh": "鲁德, 卡斯珀",
-      "el": "Ράουντ, Κάσπερ",
-      "pt": "Casper Ruud"
-    },
-    "name_short": "Ruud C.",
-    "name_full": "Ruud, Casper",
-    "name_code": "RUU",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "NOR",
-    "country": "Norway",
-    "flag": "norway",
-    "foundation": null,
-    "details": {
-      "country": "Norway",
-      "country_i_s_o": "NOR",
-      "date_of_birth": "23 (22 Dec 1998)",
-      "birthplace": "Oslo, Norway",
-      "plays": "Right-Handed",
-      "residence": "Oslo, Norway",
-      "weight": "77 kg",
-      "height_meters": 183,
-      "prize_current": "232.5k €",
-      "prize_total": "4.2M €",
-      "prize_current_euros": 232500,
-      "prize_total_euros": 4215183,
-      "flag": "norway"
-    }
+    "GameID": "1613",
+    "Title": "After Burner (USA)",
+    "ReleaseDate": "1987-12-12",
+    "PlatformID": "35",
+    "Players": "1",
+    "Overview": "The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.",
+    "LastUpdatedTGDB": "1643696612",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": "",
+    "Processor": "",
+    "RAM": "",
+    "Video": "",
+    "Sound": "",
+    "LastUpdatedLocal": "1643677205",
+    "Genres": [
+      "1",
+      "8",
+      "13"
+    ],
+    "Developers": [
+      "7549",
+      "7570"
+    ],
+    "Publishers": [
+      "15"
+    ],
+    "Images": [
+      {
+        "ImageID": "12988",
+        "Type": "boxart",
+        "Side": "back",
+        "Filename": "boxart/back/1613-1.jpg",
+        "Resolution": "1521x2100"
+      },
+      {
+        "ImageID": "12987",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/1613-1.jpg",
+        "Resolution": "1530x2100"
+      },
+      {
+        "ImageID": "35382",
+        "Type": "clearlogo",
+        "Side": "",
+        "Filename": "clearlogo/1613.png",
+        "Resolution": "400x200"
+      },
+      {
+        "ImageID": "16065",
+        "Type": "fanart",
+        "Side": "",
+        "Filename": "fanart/1613-1.jpg",
+        "Resolution": "1920x1080"
+      },
+      {
+        "ImageID": "34896",
+        "Type": "fanart",
+        "Side": "",
+        "Filename": "fanart/1613-2.jpg",
+        "Resolution": "1920x1080"
+      },
+      {
+        "ImageID": "34897",
+        "Type": "fanart",
+        "Side": "",
+        "Filename": "fanart/1613-3.jpg",
+        "Resolution": "1920x1080"
+      },
+      {
+        "ImageID": "14089",
+        "Type": "banner",
+        "Side": "",
+        "Filename": "graphical/1613-g.jpg",
+        "Resolution": ""
+      }
+    ]
   },
   {
-    "id": 26,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "londero-j",
-    "name": "Londero J.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/londero-j.png",
-    "name_translations": {
-      "en": "Londero J.",
-      "ru": "Хуан Игнасио Лондера",
-      "de": "Londero, Juan Ignacio",
-      "es": "Londero, Juan Ignacio",
-      "fr": "Londero, Juan Ignacio",
-      "zh": "隆德罗",
-      "el": "Λοντέρο, Ζουάν Ιγκνάσιο",
-      "pt": "Juan Ignacio Londero"
-    },
-    "name_short": "Londero J.",
-    "name_full": "Londero, Juan Ignacio",
-    "name_code": "LON",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "ARG",
-    "country": "Argentina",
-    "flag": "argentina",
-    "foundation": null,
-    "details": {
-      "country": "Argentina",
-      "country_i_s_o": "ARG",
-      "date_of_birth": "28 (15 Aug 1993)",
-      "birthplace": "Jesus Maria, Argentina",
-      "plays": "Right-Handed",
-      "residence": "Buenos Aires, Argentina",
-      "weight": "70 kg",
-      "height_meters": 180,
-      "prize_total": "1.6M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 1647459,
-      "flag": "argentina"
-    }
+    "GameID": "3052",
+    "Title": "Teddy Boy",
+    "ReleaseDate": "1985-10-20",
+    "PlatformID": "35",
+    "Players": "1",
+    "Overview": "It's a video dream. Or nightmare.\r\n\r\nDepending on how well you're doing.\r\n\r\nScramble from maze to maze  each more magnificent than the one before it  bumping off bugs, guppies, snails, dominos and more as you go.\r\n\r\nGrab precious points for tennis shoes, teddy bears, snails, and other identifiable objects.\r\n\r\nAnd try to avoid the ugly Den Den, a snapping dragon head. Or you'll be forced to wake up to reality.\r\n\r\nThe colors are fantastic. Even the music is wild.",
+    "LastUpdatedTGDB": "1643697079",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": "",
+    "Processor": "",
+    "RAM": "",
+    "Video": "",
+    "Sound": "",
+    "LastUpdatedLocal": "1643677205",
+    "Genres": [
+      "15"
+    ],
+    "Developers": [
+      "7549"
+    ],
+    "Publishers": [
+      "15"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/3052-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "106089",
+        "Type": "clearlogo",
+        "Side": "",
+        "Filename": "clearlogo/3052.png",
+        "Resolution": "400x175"
+      },
+      {
+        "ImageID": "14243",
+        "Type": "banner",
+        "Side": "",
+        "Filename": "graphical/3052-g.jpg",
+        "Resolution": ""
+      }
+    ]
   },
   {
-    "id": 27,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "schwartzman-d",
-    "name": "Schwartzman D.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/schwartzman-d.png",
-    "name_translations": {
-      "en": "Schwartzman D.",
-      "ru": "Швартцман, Диего Себастиан",
-      "de": "Schwartzman, Diego",
-      "es": "Schwartzman, Diego Sebastián",
-      "zh": "施瓦兹曼，迪亚哥·塞巴斯蒂安",
-      "el": "Σβαρτζμάν, Ντιέγκο Σεμπάστιαν",
-      "pt": "Diego Sebastian Schwartzman"
-    },
-    "name_short": "Schwartzman D.",
-    "name_full": "Schwartzman, Diego",
-    "name_code": "SCH",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "ARG",
-    "country": "Argentina",
-    "flag": "argentina",
-    "foundation": null,
-    "details": {
-      "country": "Argentina",
-      "country_i_s_o": "ARG",
-      "date_of_birth": "29 (16 Aug 1992)",
-      "birthplace": "Buenos Aires, Argentina",
-      "plays": "Right-Handed",
-      "residence": "Buenos Aires, Argentina",
-      "weight": "64 kg",
-      "height_meters": 170,
-      "prize_current": "224.2k €",
-      "prize_total": "9.3M €",
-      "prize_current_euros": 224167,
-      "prize_total_euros": 9300963,
-      "flag": "argentina"
-    }
+    "GameID": "26725",
+    "Title": "Criticom [Long Box]",
+    "ReleaseDate": "1995-11-29",
+    "PlatformID": "10",
+    "Players": "2",
+    "Overview": "8 exotic personas with unique transformations resulting in a total of 24 different playable characters.\r\n\r\nHollywood style cinematics in game introduction and individual character introductions.\r\nMultiple hit chain combos, projectile and weapon attacks.\r\nTrue 3-D character control.",
+    "LastUpdatedTGDB": "1643727937",
+    "RatingESRB": "T - Teen",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": "",
+    "Processor": "",
+    "RAM": "",
+    "Video": "",
+    "Sound": "",
+    "LastUpdatedLocal": "1643709605",
+    "Genres": [
+      "10"
+    ],
+    "Developers": [
+      "4820"
+    ],
+    "Publishers": [
+      "151"
+    ],
+    "Images": [
+      {
+        "ImageID": "75545",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/26725-1.jpg",
+        "Resolution": "640x1048"
+      }
+    ]
   },
   {
-    "id": 28,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "sousa-p",
-    "name": "Sousa P.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/sousa-p.png",
-    "name_translations": {
-      "en": "Sousa P.",
-      "ru": "Соуза, Педро",
-      "es": "Sousa, Pedro",
-      "fr": "Sousa, Pedro",
-      "zh": "索萨，佩德罗",
-      "el": "Σούσα, Πέντρο",
-      "pt": "Pedro Sousa"
-    },
-    "name_short": "Sousa P.",
-    "name_full": "Sousa, Pedro",
-    "name_code": "SOU",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "PRT",
-    "country": "Portugal",
-    "flag": "portugal",
-    "foundation": null,
-    "details": {
-      "country": "Portugal",
-      "country_i_s_o": "PRT",
-      "date_of_birth": "33 (27 May 1988)",
-      "birthplace": "Lisbon, Portugal",
-      "plays": "Right-Handed",
-      "residence": "Lisbon, Portugal",
-      "weight": "70 kg",
-      "height_meters": 180,
-      "prize_total": "826.4k €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 826355,
-      "flag": "portugal"
-    }
+    "GameID": "97540",
+    "Title": "Ashwalkers: A Survival Journey",
+    "ReleaseDate": "2021-04-15",
+    "PlatformID": "1",
+    "Players": "1",
+    "Overview": "From the co-founder of Dontnod (Life is Strange) Hervé Bonin’s new studio Nameless XIII. Face the dark corners of your humanity and find out what lurks in the shadows.\r\n\r\n\r\n\r\nThe non-linear story challenges players to make meaningful choices in complex moral dilemmas.\r\nFeature List\r\nMake meaningful choices in a non-linear narrative\r\nDifferent paths to take with 34 different endings\r\nManage your party’s resources as well as their physical and mental health\r\nGet to know the group through their relationship dynamics\r\nTravel and learn about this hostile world destroyed by a volcanic apocalypse\r\nHarvest resources and craft supplies\r\n\r\n\r\nDiscover a new path each playthrough (roughly 2 hours per successful run) with 34 possible endings.\r\n\r\n\r\n\r\nPhysical and mental party management:\r\nManage your food, equipment and medication and protect the group from madness and despair. Seek and harvest vital resources in the wild and keep your group alive.\r\n\r\n\r\n\r\nRichly drawn characters:\r\nGet to know the intimate dynamics, relationships and tensions between the brave captain of the group Petra, pragmatic fighter Sinh, the young optimistic scholar Kali and the cautious scout Nadir as you travel the end of the world.\r\n\r\n\r\n\r\nA desolate future:\r\nSet 200 years after the first geological disasters the earth is a post-apocalyptic wasteland. Survive the weather, the ash storm, the grey blizzard and the acid rain.\r\nMATURE CONTENT DESCRIPTION\r\nThe developers describe the content like this:\r\n\r\nAshwalkers contains :\r\n- Texts depicting violence, killing and death (humans and animals).\r\n- Illustrations of violence (blood, bodies and skeletons).",
+    "LastUpdatedTGDB": "1643767235",
+    "RatingESRB": "T - Teen",
+    "Coop": "No",
+    "Youtube": "https://www.youtube.com/watch?v=7ndTmFsJNms",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643749205",
+    "Genres": [
+      "2"
+    ],
+    "Developers": [],
+    "Publishers": [],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/97540-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 29,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "cilic-m",
-    "name": "Čilić M.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/cilic-m.png",
-    "name_translations": {
-      "en": "Čilić M.",
-      "ru": "Чилич, Марин",
-      "es": "Cilic, Marin",
-      "zh": "西里奇，马琳",
-      "el": "Τσίλιτς, Μάριν",
-      "pt": "Marin Cilic"
-    },
-    "name_short": "Čilić M.",
-    "name_full": "Čilić, Marin",
-    "name_code": "CIL",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "HRV",
-    "country": "Croatia",
-    "flag": "croatia",
-    "foundation": null,
-    "details": {
-      "country": "Croatia",
-      "country_i_s_o": "HRV",
-      "date_of_birth": "33 (28 Sep 1988)",
-      "birthplace": "Medjugorje, Bosnia-Herzegovina",
-      "plays": "Right-Handed",
-      "residence": "Monte Carlo, Monaco",
-      "weight": "89 kg",
-      "height_meters": 198,
-      "prize_current": "18.3k €",
-      "prize_total": "24.4M €",
-      "prize_current_euros": 18321,
-      "prize_total_euros": 24360115,
-      "flag": "croatia"
-    }
+    "GameID": "56063",
+    "Title": "God of War 2 (Special Edition)",
+    "ReleaseDate": "2007-04-27",
+    "PlatformID": "11",
+    "Players": "1",
+    "Overview": "God of War II is an action-adventure game developed by Santa Monica Studio and published by Sony Computer Entertainment. First released for the PlayStation 2 console on March 13, 2007, it is the second installment in the God of War series, the sixth chronologically, and the sequel to 2005's God of War.",
+    "LastUpdatedTGDB": "1643718549",
+    "RatingESRB": "M - Mature",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": "",
+    "Processor": "",
+    "RAM": "",
+    "Video": "",
+    "Sound": "",
+    "LastUpdatedLocal": "1643698805",
+    "Genres": [
+      "1",
+      "2"
+    ],
+    "Developers": [
+      "7986"
+    ],
+    "Publishers": [
+      "21"
+    ],
+    "Images": [
+      {
+        "ImageID": "138507",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/56063-1.jpg",
+        "Resolution": "328x445"
+      }
+    ]
   },
   {
-    "id": 30,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "krajinovic-f",
-    "name": "Krajinović F.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/krajinovic-f.png",
-    "name_translations": {
-      "en": "Krajinović F.",
-      "ru": "Филипп Краинович",
-      "es": "Krajinovic, Filip",
-      "zh": "克拉伊诺维奇, 菲利普",
-      "el": "Κραζίνοβιτς, Φίλιπ",
-      "pt": "Filip Krajinovic"
-    },
-    "name_short": "Krajinović F.",
-    "name_full": "Krajinović, Filip",
-    "name_code": "KRA",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "SRB",
-    "country": "Serbia",
-    "flag": "serbia",
-    "foundation": null,
-    "details": {
-      "country": "Serbia",
-      "country_i_s_o": "SRB",
-      "date_of_birth": "29 (27 Feb 1992)",
-      "birthplace": "Sombor, Serbia",
-      "plays": "Right-Handed",
-      "residence": "Belgrade, Serbia",
-      "weight": "75 kg",
-      "height_meters": 1.85,
-      "prize_current": "95.8k €",
-      "prize_total": "4.1M €",
-      "prize_current_euros": 95833,
-      "prize_total_euros": 4060179,
-      "flag": "serbia"
-    }
+    "GameID": "52504",
+    "Title": "Metal Gear Solid HD Collection [Limited Edition]",
+    "ReleaseDate": "2012-02-03",
+    "PlatformID": "12",
+    "Players": "4",
+    "Overview": "From the critically acclaimed director, Hideo Kojima, Metal Gear Solid HD Collection offers a handful of the most popular Metal Gear Solid titles from the past in true HD for the first time ever. Featuring three complete games, Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid: Snake Eater and Metal Gear Solid: Peace Walker, the HD Collection offers old and new fans a chance to experience the epic game play, design and storytelling of the MGS franchise.\r\n\r\nThis edition was exclusively sold in the UK by Zavvi. It includes a steelbook, t-shirt and an art book.",
+    "LastUpdatedTGDB": "1643718943",
+    "RatingESRB": "M - Mature",
+    "Coop": "Yes",
+    "Youtube": "1K_l8U61OpA",
+    "OS": "",
+    "Processor": "",
+    "RAM": "",
+    "Video": "",
+    "Sound": "",
+    "LastUpdatedLocal": "1643698806",
+    "Genres": [
+      "1",
+      "8",
+      "16"
+    ],
+    "Developers": [
+      "1249"
+    ],
+    "Publishers": [
+      "23"
+    ],
+    "Images": [
+      {
+        "ImageID": "132597",
+        "Type": "boxart",
+        "Side": "back",
+        "Filename": "boxart/back/52504-1.jpg",
+        "Resolution": "1573x981"
+      },
+      {
+        "ImageID": "132596",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/52504-1.jpg",
+        "Resolution": "640x474"
+      }
+    ]
   },
   {
-    "id": 31,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "kecmanovic-m",
-    "name": "Kecmanović M.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/kecmanovic-m.png",
-    "name_translations": {
-      "en": "Kecmanović M.",
-      "ru": "Кечманович, Миомир",
-      "es": "Kecmanovic, Miomir",
-      "fr": "Kecmanovic, Miomir",
-      "zh": "克奇马诺维奇,米奥米尔",
-      "el": "Κεσμάνοβικ, Μίομιρ",
-      "pt": "Miomir Kecmanovic"
-    },
-    "name_short": "Kecmanović M.",
-    "name_full": "Kecmanović, Miomir",
-    "name_code": "KEC",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "SRB",
-    "country": "Serbia",
-    "flag": "serbia",
-    "foundation": null,
-    "details": {
-      "country": "Serbia",
-      "country_i_s_o": "SRB",
-      "date_of_birth": "22 (31 Aug 1999)",
-      "birthplace": "Belgrade, Serbia",
-      "plays": "Right-Handed",
-      "residence": "Bradenton, FL, USA",
-      "weight": "75 kg",
-      "height_meters": 1.83,
-      "prize_total": "2.1M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 2136604,
-      "flag": "serbia"
-    }
+    "GameID": "65213",
+    "Title": "PDC World Championship Darts: Pro Tour",
+    "ReleaseDate": "2010-01-01",
+    "PlatformID": "15",
+    "Players": "2",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643663138",
+    "RatingESRB": "E - Everyone",
+    "Coop": "Yes",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643644807",
+    "Genres": [
+      "11"
+    ],
+    "Developers": [],
+    "Publishers": [],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "back",
+        "Filename": "boxart/back/65213-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/65213-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 32,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "edmund-k",
-    "name": "Edmund K.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/edmund-k.png",
-    "name_translations": {
-      "en": "Edmund K.",
-      "ru": "Кайл Эдмунд",
-      "es": "Edmund, Kyle",
-      "zh": "艾德蒙德，凯尔",
-      "el": "Εντμούντο, Κίλε",
-      "pt": "Kyle Edmund"
-    },
-    "name_short": "Edmund K.",
-    "name_full": "Edmund, Kyle",
-    "name_code": "EDM",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "GBR",
-    "country": "United Kingdom",
-    "flag": "great-britain",
-    "foundation": null,
-    "details": {
-      "country": "United Kingdom",
-      "country_i_s_o": "GBR",
-      "date_of_birth": "27 (08 Jan 1995)",
-      "birthplace": "Johannesburg, South Africa",
-      "plays": "Right-Handed",
-      "residence": "Nassau, Bahamas",
-      "weight": "83 kg",
-      "height_meters": 1.88,
-      "prize_total": "4.8M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 4804753,
-      "flag": "great-britain"
-    }
+    "GameID": "66209",
+    "Title": "Astérix & Obelix XXL 2 [Limited Edition]",
+    "ReleaseDate": "2018-11-29",
+    "PlatformID": "4920",
+    "Players": "1",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643759756",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643738406",
+    "Genres": [
+      "1",
+      "15"
+    ],
+    "Developers": [
+      "1"
+    ],
+    "Publishers": [],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/66209-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 33,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "seppi-a",
-    "name": "Seppi A.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/seppi-a.png",
-    "name_translations": {
-      "en": "Seppi A.",
-      "ru": "Сеппи, Андреас",
-      "es": "Seppi, Andreas",
-      "zh": "塞皮",
-      "el": "Σέπι, Αντρέας",
-      "pt": "Andreas Seppi"
-    },
-    "name_short": "Seppi A.",
-    "name_full": "Seppi, Andreas",
-    "name_code": "SEP",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "ITA",
-    "country": "Italy",
-    "flag": "italy",
-    "foundation": null,
-    "details": {
-      "country": "Italy",
-      "country_i_s_o": "ITA",
-      "date_of_birth": "37 (21 Feb 1984)",
-      "birthplace": "Bolzano, Italy",
-      "plays": "Right-Handed",
-      "residence": "Caldaro, Italy",
-      "weight": "78 kg",
-      "height_meters": 1.91,
-      "prize_current": "4.3k €",
-      "prize_total": "9.6M €",
-      "prize_current_euros": 4333,
-      "prize_total_euros": 9645037,
-      "flag": "italy"
-    }
+    "GameID": "70103",
+    "Title": "Resident Evil 3 [Collector's Edition]",
+    "ReleaseDate": "2020-04-03",
+    "PlatformID": "4920",
+    "Players": "1",
+    "Overview": "Resident Evil 3 is a survival horror game developed and published by Capcom. It is a remake of Resident Evil 3: Nemesis (1999) and follows Jill Valentine and Carlos Oliveira as they attempt to survive a zombie apocalypse while hunted by the intelligent bioweapon Nemesis.",
+    "LastUpdatedTGDB": "1643723768",
+    "RatingESRB": "M - Mature",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643706006",
+    "Genres": [
+      "1",
+      "8",
+      "18"
+    ],
+    "Developers": [
+      "1436"
+    ],
+    "Publishers": [
+      "9"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/70103-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 34,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "jung-j",
-    "name": "Jung J.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/jung-j.png",
-    "name_translations": {
-      "en": "Jung J.",
-      "ru": "Юнг, Джейсон",
-      "es": "Jung, Jason",
-      "zh": "荣格，杰森",
-      "el": "Ζούνγκ, Ζάσον",
-      "pt": "Jason Jung"
-    },
-    "name_short": "Jung J.",
-    "name_full": "Jung, Jason",
-    "name_code": "JUN",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "TWN",
-    "country": "Chinese Taipei",
-    "flag": "taiwan",
-    "foundation": null,
-    "details": {
-      "country": "Chinese Taipei",
-      "country_i_s_o": "TWN",
-      "date_of_birth": "32 (15 Jun 1989)",
-      "birthplace": "Torrance, CA, USA",
-      "plays": "Right-Handed",
-      "residence": "Torrance, CA, USA",
-      "weight": "69 kg",
-      "height_meters": 1.8,
-      "prize_current": "717 €",
-      "prize_total": "808.9k €",
-      "prize_current_euros": 717,
-      "prize_total_euros": 808931,
-      "flag": "taiwan"
-    }
+    "GameID": "70134",
+    "Title": "Resident Evil 3 [Collector's Edition]",
+    "ReleaseDate": "2019-04-03",
+    "PlatformID": "4919",
+    "Players": "1",
+    "Overview": "Resident Evil 3 is a 2020 survival horror video game developed and published by Capcom for Microsoft Windows, PlayStation 4, and Xbox One. It is a remake of the 1999 Resident Evil game Resident Evil 3: Nemesis, and follows former elite agent Jill Valentine and mercenary Carlos Oliveira as they attempt to find a vaccine and escape from a city that has been infected by a viral bioweapon. The game is played from an over-the-shoulder, third-person perspective and requires the player to solve puzzles and defeat opponents while being pursued by a creature called Nemesis.\r\n\r\nMost of Resident Evil 3 was developed concurrently with the 2019 remake of Resident Evil 2 and both games run on Capcom's proprietary RE Engine. Although the game features the same premise as the original, many parts were rearranged in favor of a more focused story. To honor the more action-oriented approach of the original, developers revamped the movement speed and animations from the Resident Evil 2 remake and added an ability for players to dodge incoming attacks. Because some features from the original game were excluded, a separate online multiplayer game, Resident Evil: Resistance, was bundled with Resident Evil 3.",
+    "LastUpdatedTGDB": "1643723750",
+    "RatingESRB": "M - Mature",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643702407",
+    "Genres": [
+      "1",
+      "8",
+      "18"
+    ],
+    "Developers": [
+      "1436"
+    ],
+    "Publishers": [
+      "9"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/70134-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 35,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "carreno-busta-p",
-    "name": "Carreño Busta P.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/carreno-busta-p.png",
-    "name_translations": {
-      "en": "Carreño Busta P.",
-      "ru": "Каррено-Буста, Пабло",
-      "es": "Carreño-Busta, Pablo",
-      "zh": "巴斯塔",
-      "el": "Καρένο-Μπούστα, Πάμπλο",
-      "pt": "Pablo Carrena-Busta"
-    },
-    "name_short": "Carreño Busta P.",
-    "name_full": "Carreño Busta, Pablo",
-    "name_code": "CAR",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "ESP",
-    "country": "Spain",
-    "flag": "spain",
-    "foundation": null,
-    "details": {
-      "country": "Spain",
-      "country_i_s_o": "ESP",
-      "date_of_birth": "30 (12 Jul 1991)",
-      "birthplace": "Gijon, Spain",
-      "plays": "Right-Handed",
-      "residence": "Barcelona, Spain",
-      "weight": "78 kg",
-      "height_meters": 1.88,
-      "prize_current": "325k €",
-      "prize_total": "10.5M €",
-      "prize_current_euros": 325000,
-      "prize_total_euros": 10509147,
-      "flag": "spain"
-    }
+    "GameID": "97539",
+    "Title": "Golazo! Soccer League",
+    "ReleaseDate": "2020-11-03",
+    "PlatformID": "1",
+    "Players": "1",
+    "Overview": "CRAZY ARCADE SOCCER!\r\n\r\n\r\nFootball is all about fun and teamwork. It doesn’t matter if you’re on the field or play it on console sitting with your friends on the couch. Golazo boldly recalls the glory days of the arcade soccer games, bringing back memories of cult classics we all know. With its vintage, not-too-serious, artistic and creative modern approach to classic gameplay, Golazo is certainly a perfect game for people who are weary of football managers or complicated hard-core simulators. You just grab your pad, sit on the couch and play!\r\n\r\n\r\nAWESOME CUSTOMIZATIONS!\r\n\r\n\r\n• Dynamic gameplay reminiscent of cult arcade soccer games\r\n• Ideal for Couch & Party gamers\r\n• Who needs rules? No fouls and offsides!\r\n• VHS filter designed to give you that retro feel\r\n• Legendary players used as reference\r\n• Up to 4 players on local multiplayer\r\n• International Cup mode and league\r\n• 52 national teams\r\n• 28 hand-drawn managers\r\n• Humor – football managers and simulators are boring. Let’s bring back fun to football!",
+    "LastUpdatedTGDB": "1643766854",
+    "RatingESRB": "E - Everyone",
+    "Coop": "Yes",
+    "Youtube": "https://www.youtube.com/watch?v=YNeHKMGnZks",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643745606",
+    "Genres": [
+      "11"
+    ],
+    "Developers": [],
+    "Publishers": [],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/97539-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 36,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "auger-aliassime-f",
-    "name": "Auger-Aliassime F.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/auger-aliassime-f.png",
-    "name_translations": {
-      "en": "Auger-Aliassime F.",
-      "ru": "Оже-Альяссим, Феликс",
-      "de": "Auger-Aliassime, Félix",
-      "zh": "奥格尔·阿利亚西梅, 费利克斯",
-      "el": "Ογκέρ Αλιασίμ, Φέλιξ",
-      "pt": "Felix Auger Alliassime"
-    },
-    "name_short": "Auger-Aliassime F.",
-    "name_full": "Auger-Aliassime, Felix",
-    "name_code": "AAF",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "CAN",
-    "country": "Canada",
-    "flag": "canada",
-    "foundation": null,
-    "details": {
-      "country": "Canada",
-      "country_i_s_o": "CAN",
-      "date_of_birth": "21 (08 Aug 2000)",
-      "birthplace": "Montreal, Canada",
-      "plays": "Right-Handed",
-      "residence": "Monte Carlo, Monaco",
-      "weight": "87 kg",
-      "height_meters": 1.93,
-      "prize_current": "499.2k €",
-      "prize_total": "4.9M €",
-      "prize_current_euros": 499167,
-      "prize_total_euros": 4935946,
-      "flag": "canada"
-    }
+    "GameID": "97440",
+    "Title": "Forgotten Worlds Limited Pack with Avenue pad 3",
+    "ReleaseDate": "1992-03-27",
+    "PlatformID": "4955",
+    "Players": "1",
+    "Overview": "The Turbografx-16 version of the arcade smash with 3 button pad.\r\n\r\nIt was released as a Super CD-ROM² title which supported a specialized 3-button controller that NEC released only in Japan. An American version for the TurboGrafx 16 was released by Turbo Technologies Inc. as well. With the 3-button controller, the player can control their character as they would in the Mega Drive version, with two buttons to rotate the character and one to shoot. \r\n\r\nWith the standard TurboGrafx-16 controller, the Run button is used in the place of the third button to rotate the character to the left. The TurboGrafx-16 is one-player only, but allows the player to select between either of the two Unknown Soldiers at the start of the game (with their respective abilities from the arcade version retained).",
+    "LastUpdatedTGDB": "1643770429",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643749205",
+    "Genres": [
+      "1"
+    ],
+    "Developers": [
+      "1998"
+    ],
+    "Publishers": [
+      "294"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/97440-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 37,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "monfils-g",
-    "name": "Monfils G.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/monfils-g.png",
-    "name_translations": {
-      "en": "Monfils G.",
-      "ru": "Монфис, Гаэль",
-      "es": "Monfils, Gael",
-      "zh": "蒙菲尔斯，盖尔",
-      "el": "Μονφίς, Γκάελ",
-      "pt": "Gael Monfils"
-    },
-    "name_short": "Monfils G.",
-    "name_full": "Monfils, Gaël",
-    "name_code": "MON",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "FRA",
-    "country": "France",
-    "flag": "france",
-    "foundation": null,
-    "details": {
-      "country": "France",
-      "country_i_s_o": "FRA",
-      "date_of_birth": "35 (01 Sep 1986)",
-      "birthplace": "Paris, France",
-      "plays": "Right-Handed",
-      "residence": "Switzerland",
-      "weight": "85 kg",
-      "height_meters": 1.93,
-      "prize_current": "34.8k €",
-      "prize_total": "16.9M €",
-      "prize_current_euros": 34833,
-      "prize_total_euros": 16902798,
-      "flag": "france"
-    }
+    "GameID": "75109",
+    "Title": "Silent Hill 3",
+    "ReleaseDate": "2003-07-03",
+    "PlatformID": "11",
+    "Players": "1",
+    "Overview": "Silent Hill 3 is a survival horror video game developed by Team Silent, a production group within Konami Computer Entertainment Tokyo, and published by Konami for the PlayStation 2. The third installment in the Silent Hill series and a direct sequel to the first Silent Hill game, it follows Heather, a teenager who becomes entangled in the machinations of the town's cult, which seeks to revive a malevolent deity. It was released in May 2003, with a port to Microsoft Windows released in October of the same year.",
+    "LastUpdatedTGDB": "1643719777",
+    "RatingESRB": "M - Mature 17+",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643698806",
+    "Genres": [
+      "18"
+    ],
+    "Developers": [
+      "10302"
+    ],
+    "Publishers": [
+      "23"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "back",
+        "Filename": "boxart/back/75109-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/75109-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "screenshot",
+        "Side": "",
+        "Filename": "screenshot/75109-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "screenshot",
+        "Side": "",
+        "Filename": "screenshot/75109-2.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 38,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "anisimova-a",
-    "name": "Anisimova A.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/anisimova-a.png",
-    "name_translations": {
-      "en": "Anisimova A.",
-      "ru": "Анисимова, Аманда",
-      "es": "Anisimova, Amanda",
-      "fr": "Anisimova, Amanda",
-      "zh": "阿尼伊莫娃, 阿曼达",
-      "el": "Ανισίμοβα, Αμάντα",
-      "pt": "Amanda Anisimova"
-    },
-    "name_short": "Anisimova A.",
-    "name_full": "Anisimova, Amanda",
-    "name_code": "ANI",
-    "has_sub": false,
-    "gender": "F",
-    "is_nationality": false,
-    "country_code": "USA",
-    "country": "USA",
-    "flag": "usa",
-    "foundation": null,
-    "details": {
-      "country": "USA",
-      "country_i_s_o": "USA",
-      "date_of_birth": "20 (31 Aug 2001)",
-      "birthplace": "Freehold, NJ, USA",
-      "plays": "Right-Handed",
-      "residence": "Aventura, FL, USA",
-      "weight": " kg",
-      "height_meters": 1.8,
-      "prize_current": "25.8k €",
-      "prize_total": "2.1M €",
-      "prize_current_euros": 25833,
-      "prize_total_euros": 2103712,
-      "flag": "usa"
-    }
+    "GameID": "75472",
+    "Title": "LEGO Batman 2 DC Super Heroes [Essentials]",
+    "ReleaseDate": "2012-01-01",
+    "PlatformID": "12",
+    "Players": "2",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643718839",
+    "RatingESRB": "E10+ - Everyone 10+",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643698806",
+    "Genres": [
+      "2"
+    ],
+    "Developers": [
+      "8995"
+    ],
+    "Publishers": [
+      "152"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/75472-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 39,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "strycova-b",
-    "name": "Strýcová B.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/strycova-b.png",
-    "name_translations": {
-      "en": "Strýcová B.",
-      "ru": "Стрыцова, Барбора",
-      "es": "Strycova, Barbora",
-      "fr": "Srtycova, Barbora",
-      "zh": "斯特里措娃，巴尔博拉",
-      "el": "Στρίκοβα, Μπάρκοβα",
-      "pt": "Barbora Strycova"
-    },
-    "name_short": "Strýcová B.",
-    "name_full": "Strýcová, Barbora",
-    "name_code": "STR",
-    "has_sub": false,
-    "gender": "F",
-    "is_nationality": false,
-    "country_code": "CZE",
-    "country": "Czech Republic",
-    "flag": "czech-republic",
-    "foundation": null,
-    "details": {
-      "country": "Czech Republic",
-      "country_i_s_o": "CZE",
-      "date_of_birth": "35 (28 Mar 1986)",
-      "birthplace": "Plzen, Czech Republic",
-      "plays": "Right-Handed",
-      "residence": "Dubai, UAE",
-      "weight": "60 kg",
-      "height_meters": 1.64,
-      "prize_total": "10M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 10047946,
-      "flag": "czech-republic"
-    }
+    "GameID": "75615",
+    "Title": "Heavy Rain Move Edition [Essentials]",
+    "ReleaseDate": "2010-01-01",
+    "PlatformID": "12",
+    "Players": "1",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643718708",
+    "RatingESRB": "AO - Adult Only 18+",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643698806",
+    "Genres": [
+      "2"
+    ],
+    "Developers": [
+      "6898"
+    ],
+    "Publishers": [
+      "14"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/75615-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 40,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "clijsters-k",
-    "name": "Clijsters K.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/clijsters-k.png",
-    "name_translations": {
-      "en": "Clijsters K.",
-      "ru": "Ким Клийстерс",
-      "zh": "克里斯特尔斯",
-      "el": "Κλίστερς, Κιμ",
-      "pt": "Kim Clijsters"
-    },
-    "name_short": "Clijsters K.",
-    "name_full": "Clijsters, Kim",
-    "name_code": "CLI",
-    "has_sub": false,
-    "gender": "F",
-    "is_nationality": false,
-    "country_code": "BEL",
-    "country": "Belgium",
-    "flag": "belgium",
-    "foundation": null,
-    "details": {
-      "country": "Belgium",
-      "country_i_s_o": "BEL",
-      "date_of_birth": "38 (08 Jun 1983)",
-      "birthplace": "Bilzen, Belgium",
-      "plays": "Right-Handed",
-      "weight": " kg",
-      "height_meters": 1.74,
-      "prize_total": "20.5M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 20454328,
-      "flag": "belgium"
-    }
+    "GameID": "78087",
+    "Title": "Medal of Honor Frontline [Classics]",
+    "ReleaseDate": "2002-01-01",
+    "PlatformID": "14",
+    "Players": "4",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643720870",
+    "RatingESRB": "E10+ - Everyone 10+",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643702407",
+    "Genres": [
+      "8"
+    ],
+    "Developers": [
+      "2563"
+    ],
+    "Publishers": [
+      "35"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/78087-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 41,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "bertens-k",
-    "name": "Bertens K.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/bertens-k.png",
-    "name_translations": {
-      "en": "Bertens K.",
-      "ru": "Бертенс, Кики",
-      "es": "Bertens, Kiki",
-      "fr": "Bertens, Kiki",
-      "zh": "贝尔滕斯，基基",
-      "el": "Μπέρτενς, Κικί",
-      "pt": "Kiki Bertens"
-    },
-    "name_short": "Bertens K.",
-    "name_full": "Bertens, Kiki",
-    "name_code": "BER",
-    "has_sub": false,
-    "gender": "F",
-    "is_nationality": false,
-    "country_code": "NLD",
-    "country": "Netherlands",
-    "flag": "netherlands",
-    "foundation": null,
-    "details": {
-      "country": "Netherlands",
-      "country_i_s_o": "NLD",
-      "date_of_birth": "30 (10 Dec 1991)",
-      "birthplace": "Wateringen, Netherlands",
-      "plays": "Right-Handed",
-      "residence": "Wateringen, Netherlands",
-      "weight": "74 kg",
-      "height_meters": 1.82,
-      "prize_current": "190k €",
-      "prize_total": "9.7M €",
-      "prize_current_euros": 190048,
-      "prize_total_euros": 9710992,
-      "flag": "netherlands"
-    }
+    "GameID": "82326",
+    "Title": "Shining Resonance [Limited Edition DX Pack]",
+    "ReleaseDate": "2014-12-11",
+    "PlatformID": "12",
+    "Players": "1",
+    "Overview": "Box contents\r\n\r\nPS3 Game: Shining Resonance\r\nKirika 1/7 Scale Pre-Painted PVC Figure (Mizugi Ver.)\r\nTony Visual Clear Poster (A3 Size 29.7 x 42 cm)\r\nShining Resonance 2015 Calendar (W:15cm x H:30cm)\r\nRubber Strap Set (5pcs)\r\nSpecial DLC Character Costume (Kirika Mizugi)",
+    "LastUpdatedTGDB": "1643719725",
+    "RatingESRB": "T - Teen",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643698806",
+    "Genres": [
+      "4"
+    ],
+    "Developers": [
+      "7549"
+    ],
+    "Publishers": [
+      "15"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/82326-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 151,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "harrison-r",
-    "name": "Harrison R.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/harrison-r.png",
-    "name_translations": {
-      "en": "Harrison R.",
-      "ru": "Харрисон, Райан",
-      "es": "Harrison, Ryan",
-      "zh": "哈里森.R",
-      "el": "Χάρισον, Ράιαν",
-      "pt": "Ryan Harrison"
-    },
-    "name_short": "Harrison R.",
-    "name_full": "Harrison, Ryan",
-    "name_code": "HAR",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "USA",
-    "country": "USA",
-    "flag": "usa",
-    "foundation": null,
-    "details": {
-      "country": "USA",
-      "country_i_s_o": "USA",
-      "date_of_birth": "29 (07 May 1992)",
-      "birthplace": "Shreveport, LA, USA",
-      "plays": "Right-Handed",
-      "residence": "Austin, TX, USA",
-      "weight": "84 kg",
-      "height_meters": 1.85,
-      "prize_total": "4M €",
-      "prize_current_euros": 0,
-      "prize_total_euros": 3997038,
-      "flag": "usa"
-    }
+    "GameID": "82683",
+    "Title": "Ratchet: Gladiator [Platinum]",
+    "ReleaseDate": "2005-01-01",
+    "PlatformID": "11",
+    "Players": "1",
+    "Overview": "Ratchet: Deadlocked (known as Ratchet: Gladiator in Europe, Australia and Africa, and Ratchet & Clank 4 in Japan) is a 2005 action platformer in the Ratchet & Clank series, developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 2.\r\n\r\nThe game's story begins as Ratchet, Clank, and Al are abducted and forced to compete in \"DreadZone\", a violent game show in which heroes are forced to kill each other. Ratchet is given a \"DeadLock\" collar, which will explode if he becomes uncooperative or boring. The three must find a way to deactivate the collars and free the other heroes being held prisoner. Deadlocked was the last Ratchet & Clank game to be rated T, despite the introduction of the E10+ rating earlier that year. It's also the last main series Ratchet & Clank game to be released on PlayStation 2.\r\n\r\nThe gameplay is similar to that of other games in the series, but focuses more on shooter aspects rather than platforming. The player, as Ratchet, fights in DreadZone tournaments across the \"Shadow Sector\" in the \"Solana\" Galaxy, with a large variety of weapons. This game was the first in the series to feature cooperative gameplay in a story mode, and also includes an online multiplayer mode. Some vehicles return from previous games, and new ones are introduced. For the first time, Clank (in his typical form) was not a playable character.\r\n\r\nDeadlocked was met with generally favorable reviews, although slightly lower than its predecessors, with some criticism being aimed at its darker tone, repetitive gameplay and level design, and the removal of Clank as a playable character.",
+    "LastUpdatedTGDB": "1643727038",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643706007",
+    "Genres": [
+      "2",
+      "15"
+    ],
+    "Developers": [
+      "4232"
+    ],
+    "Publishers": [
+      "14"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/82683-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 152,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "dzumhur-d",
-    "name": "Džumhur D.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/dzumhur-d.png",
-    "name_translations": {
-      "en": "Džumhur D.",
-      "ru": "Джумур, Дамир",
-      "es": "Dzumhur, Damir",
-      "zh": "德祖赫",
-      "el": "Ντζούμχουρ, Νταμίρ",
-      "pt": "Damir Dzumhur"
-    },
-    "name_short": "Džumhur D.",
-    "name_full": "Džumhur, Damir",
-    "name_code": "DZU",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "BIH",
-    "country": "Bosnia & Herzegovina",
-    "flag": "bosnia-herzegovina",
-    "foundation": null,
-    "details": {
-      "country": "Bosnia & Herzegovina",
-      "country_i_s_o": "BIH",
-      "date_of_birth": "29 (20 May 1992)",
-      "birthplace": "Sarajevo, Bosnia-Herzegovina",
-      "plays": "Right-Handed",
-      "residence": "Sarajevo, Bosnia-Herzegovina",
-      "weight": "68 kg",
-      "height_meters": 1.75,
-      "prize_current": "433 €",
-      "prize_total": "3.8M €",
-      "prize_current_euros": 433,
-      "prize_total_euros": 3774013,
-      "flag": "bosnia-herzegovina"
-    }
+    "GameID": "83117",
+    "Title": "Tales of Destiny",
+    "ReleaseDate": "1997-12-23",
+    "PlatformID": "10",
+    "Players": "1",
+    "Overview": "",
+    "LastUpdatedTGDB": "1643729873",
+    "RatingESRB": "T - Teen",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643709606",
+    "Genres": [
+      "1",
+      "4"
+    ],
+    "Developers": [
+      "9678"
+    ],
+    "Publishers": [
+      "39"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "back",
+        "Filename": "boxart/back/83117-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/83117-1.jpg",
+        "Resolution": null
+      }
+    ]
   },
   {
-    "id": 153,
-    "sport_id": 2,
-    "category_id": null,
-    "venue_id": null,
-    "manager_id": null,
-    "slug": "mcdonald-m",
-    "name": "McDonald M.",
-    "has_logo": true,
-    "logo": "https://tipsscore.com/resb/team/mcdonald-m.png",
-    "name_translations": {
-      "en": "McDonald M.",
-      "ru": "Макдональд, Маккензи",
-      "es": "Mcdonald, Mackenzie",
-      "fr": "McDonald, Mackenzie",
-      "zh": "麦克唐纳，麦肯齐",
-      "el": "Μακντόναλντ, Μασκέντζιε",
-      "pt": "Mackenzie McDonald"
-    },
-    "name_short": "McDonald M.",
-    "name_full": "McDonald, Mackenzie",
-    "name_code": "MCD",
-    "has_sub": false,
-    "gender": "M",
-    "is_nationality": false,
-    "country_code": "USA",
-    "country": "USA",
-    "flag": "usa",
-    "foundation": null,
-    "details": {
-      "country": "USA",
-      "country_i_s_o": "USA",
-      "date_of_birth": "26 (16 Apr 1995)",
-      "birthplace": "Piedmont, CA, USA",
-      "plays": "Right-Handed",
-      "residence": "Orlando, FL, USA",
-      "weight": "73 kg",
-      "height_meters": 1.78,
-      "prize_current": "7.4k €",
-      "prize_total": "2.1M €",
-      "prize_current_euros": 7408,
-      "prize_total_euros": 2141237,
-      "flag": "usa"
-    }
+    "GameID": "84658",
+    "Title": "Xbox Console Companion (WP)",
+    "ReleaseDate": "2014-10-27",
+    "PlatformID": "1",
+    "Players": "1",
+    "Overview": "The Xbox app brings together your friends, games, and accomplishments across Xbox One and Windows 10 devices. The best multiplayer gaming just got better.  • Join clubs – or create your own – where you can go to play and chat with friends and other gamers like you. • Find games with like-minded players by checking Looking for Group posts, or post one that fits your own objectives and play style. • Get instant access to chat, sharing, parties, Game DVR, and achievements across PC and Xbox One. • Keep track of your game clips and screenshots and download them straight to your Windows 10 PC. • Take the brakes off chat when you use a keyboard for messaging with friends on Xbox Live. • Stream your favorite games and entertainment from Xbox One to a Windows 10 PC while using your Xbox One controller.  Disclaimer: Broadband internet required (ISP fees apply). Xbox Live features only available with supported games. Online multiplayer (including streaming with multiplayer) and some features of Game DVR on Xbox One require Xbox Live Gold subscription (sold separately). Stream to one device at a time.",
+    "LastUpdatedTGDB": "1643714612",
+    "RatingESRB": "E - Everyone",
+    "Coop": "No",
+    "Youtube": "",
+    "OS": null,
+    "Processor": null,
+    "RAM": null,
+    "Video": null,
+    "Sound": null,
+    "LastUpdatedLocal": "1643691605",
+    "Genres": [
+      "21",
+      "26"
+    ],
+    "Developers": [
+      "10176"
+    ],
+    "Publishers": [
+      "1"
+    ],
+    "Images": [
+      {
+        "ImageID": "0",
+        "Type": "boxart",
+        "Side": "front",
+        "Filename": "boxart/front/84658-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "screenshot",
+        "Side": "",
+        "Filename": "screenshot/84658-1.jpg",
+        "Resolution": null
+      },
+      {
+        "ImageID": "0",
+        "Type": "screenshot",
+        "Side": "",
+        "Filename": "screenshot/84658-2.jpg",
+        "Resolution": null
+      }
+    ]
   }
 ]
