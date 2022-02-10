@@ -1,6 +1,51 @@
 {
   "data": [
     {
+      "id": 25,
+      "sport_id": 2,
+      "category_id": null,
+      "venue_id": null,
+      "manager_id": null,
+      "slug": "ruud-c",
+      "name": "Ruud C.",
+      "has_logo": true,
+      "logo": "https://tipsscore.com/resb/team/ruud-c.png",
+      "name_translations": {
+        "en": "Ruud C.",
+        "ru": "Рууд, Каспер",
+        "es": "Ruud, Casper",
+        "fr": "Ruud, Casper",
+        "zh": "鲁德, 卡斯珀",
+        "el": "Ράουντ, Κάσπερ",
+        "pt": "Casper Ruud"
+      },
+      "name_short": "Ruud C.",
+      "name_full": "Ruud, Casper",
+      "name_code": "RUU",
+      "has_sub": false,
+      "gender": "M",
+      "is_nationality": false,
+      "country_code": "NOR",
+      "country": "Norway",
+      "flag": "norway",
+      "foundation": null,
+      "details": {
+        "country": "Norway",
+        "country_i_s_o": "NOR",
+        "date_of_birth": "23 (22 Dec 1998)",
+        "birthplace": "Oslo, Norway",
+        "plays": "Right-Handed",
+        "residence": "Oslo, Norway",
+        "weight": "77 kg",
+        "height_meters": 1.83,
+        "prize_current": "232.5k €",
+        "prize_total": "4.2M €",
+        "prize_current_euros": 232500,
+        "prize_total_euros": 4215183,
+        "flag": "norway"
+      }
+    },
+    {
       "id": 12436,
       "sport_id": 2,
       "category_id": null,
