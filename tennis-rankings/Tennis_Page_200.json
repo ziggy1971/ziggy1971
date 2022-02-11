@@ -50432,32 +50432,6 @@
       "details": null
     },
     {
-      "id": 34634,
-      "sport_id": 2,
-      "category_id": null,
-      "venue_id": null,
-      "manager_id": null,
-      "slug": "bye",
-      "name": "BYE",
-      "has_logo": true,
-      "logo": "https://tipsscore.com/resb/team/bye.png",
-      "name_translations": {
-        "en": "BYE",
-        "ru": "Bye"
-      },
-      "name_short": "BYE",
-      "name_full": "BYE",
-      "name_code": "BYE",
-      "has_sub": false,
-      "gender": "F",
-      "is_nationality": false,
-      "country_code": "AFG",
-      "country": "Afghanistan",
-      "flag": "afghanistan",
-      "foundation": null,
-      "details": null
-    },
-    {
       "id": 34635,
       "sport_id": 2,
       "category_id": null,
@@ -67061,7 +67035,7 @@
         "pt": "Marut Klaoklang"
       },
       "name_short": "Klaoklang M.",
-      "name_full": "Klaoklang M.",
+      "name_full": "Klaoklang, Marut",
       "name_code": "KLA",
       "has_sub": false,
       "gender": "M",
@@ -72288,7 +72262,7 @@
         "pt": "Sarith Our"
       },
       "name_short": "Our S.",
-      "name_full": "Our S.",
+      "name_full": "Our, Sarith",
       "name_code": "OUR",
       "has_sub": false,
       "gender": "M",
@@ -79598,7 +79572,7 @@
         "pt": "Breno Souza Plentz"
       },
       "name_short": "Souza Plentz B.",
-      "name_full": "Souza Plentz B.",
+      "name_full": "Souza Plentz, Breno",
       "name_code": "SPL",
       "has_sub": false,
       "gender": "M",
@@ -81622,7 +81596,7 @@
         "ru": "Гуидиси, Густаво"
       },
       "name_short": "Giudici G.",
-      "name_full": "Giudici G.",
+      "name_full": "Giudici, G.",
       "name_code": "GIU",
       "has_sub": false,
       "gender": "M",
@@ -95530,7 +95504,7 @@
         "pt": "Blazo N Djurovic"
       },
       "name_short": "Djurovic B.",
-      "name_full": "Djurovic B.",
+      "name_full": "Djurovic, Blazo",
       "name_code": "DJU",
       "has_sub": false,
       "gender": "M",
@@ -96338,7 +96312,7 @@
         "pt": "Francisca Emilia Vergara Jofre"
       },
       "name_short": "Vergara Jofre F.",
-      "name_full": "Vergara Jofre F.",
+      "name_full": "Vergara Jofre, Francisca Emilia",
       "name_code": "VJO",
       "has_sub": false,
       "gender": "F",
@@ -104329,7 +104303,7 @@
         "pt": "Yara Abed"
       },
       "name_short": "Abed Y.",
-      "name_full": "Abed Y.",
+      "name_full": "Abed, Yara",
       "name_code": "ABE",
       "has_sub": false,
       "gender": "F",
@@ -107755,7 +107729,7 @@
         "pt": "Hei Ching Claudia Ng"
       },
       "name_short": "Hei Ching Claudia NG.",
-      "name_full": "Hei Ching Claudia NG.",
+      "name_full": "Hei Ching Claudia, NG.",
       "name_code": "HCC",
       "has_sub": false,
       "gender": "F",
@@ -128339,7 +128313,7 @@
         "pt": "Julia Middendorf"
       },
       "name_short": "Middendorf J.",
-      "name_full": "Middendorf Julia",
+      "name_full": "Middendorf, Julia",
       "name_code": "MJU",
       "has_sub": false,
       "gender": "F",
