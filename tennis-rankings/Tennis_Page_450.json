@@ -8016,7 +8016,7 @@
         "en": "Goncalves Ceolin J."
       },
       "name_short": "Goncalves Ceolin J.",
-      "name_full": "Goncalves Ceolin J.",
+      "name_full": "Goncalves Ceolin, J.",
       "name_code": "GCE",
       "has_sub": false,
       "gender": "M",
@@ -12600,7 +12600,7 @@
         "en": "Soendergaard S."
       },
       "name_short": "Soendergaard S.",
-      "name_full": "Soendergaard S.",
+      "name_full": "Soendergaard, S.",
       "name_code": "SOE",
       "has_sub": false,
       "gender": "M",
@@ -13975,7 +13975,7 @@
         "en": "Groener E."
       },
       "name_short": "Groener E.",
-      "name_full": "Groener E.",
+      "name_full": "Groener, E.",
       "name_code": "GRO",
       "has_sub": false,
       "gender": "M",
@@ -14775,7 +14775,7 @@
         "en": "Achondo G."
       },
       "name_short": "Achondo G.",
-      "name_full": "Achondo G.",
+      "name_full": "Achondo, G.",
       "name_code": "ACH",
       "has_sub": false,
       "gender": "M",
@@ -33642,7 +33642,7 @@
         "en": "Przemyslaw Michocki"
       },
       "name_short": "Przemyslaw Michocki",
-      "name_full": "Przemyslaw Michocki",
+      "name_full": "Przemyslaw, Michocki",
       "name_code": "PMI",
       "has_sub": false,
       "gender": "M",
@@ -38942,7 +38942,7 @@
         "en": "Banos Gregorians E."
       },
       "name_short": "Banos Gregorians E.",
-      "name_full": "Banos Gregorians E.",
+      "name_full": "Banos Gregorians, E.",
       "name_code": "BGR",
       "has_sub": false,
       "gender": "F",
@@ -67871,7 +67871,7 @@
         "en": "Edmond Botes"
       },
       "name_short": "Edmond Botes",
-      "name_full": "Edmond Botes",
+      "name_full": "Botes, Edmond",
       "name_code": "EBO",
       "has_sub": false,
       "gender": "M",
@@ -69296,7 +69296,7 @@
         "en": "James Tracy"
       },
       "name_short": "James Tracy",
-      "name_full": "James Tracy",
+      "name_full": "Tracy, James",
       "name_code": "JTR",
       "has_sub": false,
       "gender": "M",
@@ -83435,7 +83435,7 @@
         "en": "Blom. Wiktor"
       },
       "name_short": "Blom. Wiktor",
-      "name_full": "Blom. Wiktor",
+      "name_full": "Blom, Wiktor",
       "name_code": "BWI",
       "has_sub": false,
       "gender": "M",
@@ -84775,7 +84775,7 @@
         "en": "Giuliato A."
       },
       "name_short": "Giuliato A.",
-      "name_full": "Giuliato A.",
+      "name_full": "Giuliato, A.",
       "name_code": "GIU",
       "has_sub": false,
       "gender": "M",
@@ -102562,7 +102562,7 @@
         "en": "Guedes Dos Santos J."
       },
       "name_short": "Guedes Dos Santos J.",
-      "name_full": "Guedes Dos Santos J.",
+      "name_full": "Guedes Dos Santos, Joao Pedro",
       "name_code": "GDS",
       "has_sub": false,
       "gender": "M",
@@ -103762,7 +103762,7 @@
         "en": "Long S."
       },
       "name_short": "Long S.",
-      "name_full": "Long S.",
+      "name_full": "Long, S.",
       "name_code": "LON",
       "has_sub": false,
       "gender": "M",
@@ -118772,31 +118772,6 @@
       "details": null
     },
     {
-      "id": 94737,
-      "sport_id": 2,
-      "category_id": null,
-      "venue_id": null,
-      "manager_id": null,
-      "slug": "russian-tennis-federation-rtf",
-      "name": "RTF",
-      "has_logo": false,
-      "logo": "https://tipsscore.comresb/no-league.png",
-      "name_translations": {
-        "en": "RTF"
-      },
-      "name_short": "RTF",
-      "name_full": "Russian Tennis Federation RTF",
-      "name_code": "RTF",
-      "has_sub": false,
-      "gender": "M",
-      "is_nationality": true,
-      "country_code": "RUS",
-      "country": "Russia",
-      "flag": "russia",
-      "foundation": null,
-      "details": null
-    },
-    {
       "id": 94738,
       "sport_id": 2,
       "category_id": null,
@@ -119410,7 +119385,7 @@
         "en": "Sidiropoulos C."
       },
       "name_short": "Sidiropoulos C.",
-      "name_full": "Sidiropoulos C.",
+      "name_full": "Sidiropoulos, C.",
       "name_code": "SID",
       "has_sub": false,
       "gender": "M",
@@ -122135,7 +122110,7 @@
         "en": "Carvalho B."
       },
       "name_short": "Carvalho B.",
-      "name_full": "Carvalho B.",
+      "name_full": "Carvalho, B.",
       "name_code": "CAR",
       "has_sub": false,
       "gender": "M",
@@ -122785,7 +122760,7 @@
         "en": "Giotopoulos G."
       },
       "name_short": "Giotopoulos G.",
-      "name_full": "Giotopoulos G.",
+      "name_full": "Giotopoulos, G.",
       "name_code": "GIO",
       "has_sub": false,
       "gender": "M",
