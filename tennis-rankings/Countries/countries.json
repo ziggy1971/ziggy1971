@@ -1,47 +1,1039 @@
 {
-  "data": [
+  "countryList": [
     {
-      "id": 12504,
-      "sport_id": 2,
-      "category_id": null,
-      "venue_id": null,
-      "manager_id": null,
-      "slug": "lepchenko-v",
-      "name": "Lepchenko V.",
-      "has_logo": true,
-      "logo": "https://tipsscore.com/resb/team/lepchenko-v.png",
-      "name_translations": {
-        "en": "Lepchenko V.",
-        "ru": "Лепченко, Варвара",
-        "es": "Lepchenko, Varvara",
-        "zh": "勒普琴科，瓦尔瓦拉",
-        "el": "Λέπσχένκο, Βαρβάρα",
-        "pt": "Varvara Lepchenko"
-      },
-      "name_short": "Lepchenko V.",
-      "name_full": "Lepchenko, Varvara",
-      "name_code": "LEP",
-      "has_sub": false,
-      "gender": "F",
-      "is_nationality": false,
-      "country_code": "USA",
-      "country": "USA",
-      "flag": "usa",
-      "foundation": null,
-      "details": {
-        "country": "USA",
-        "country_i_s_o": "USA",
-        "date_of_birth": "35 (21 May 1986)",
-        "birthplace": "Tashkent, Uzbekistan",
-        "plays": "Left-Handed",
-        "residence": "Allentown, PA, USA",
-        "weight": "72 kg",
-        "height_meters": 1.8,
-        "prize_total": "4.2M €",
-        "prize_current_euros": 0,
-        "prize_total_euros": 4174283,
-        "flag": "usa"
-      }
+      "_ID": 1,
+      "CountryName": "n/a",
+      "CountryAbrev": "n/a"
+    },
+    {
+      "_ID": 2,
+      "CountryName": "Afghanistan",
+      "CountryAbrev": "AFG"
+    },
+    {
+      "_ID": 3,
+      "CountryName": "Albania",
+      "CountryAbrev": "ALB"
+    },
+    {
+      "_ID": 4,
+      "CountryName": "Algeria",
+      "CountryAbrev": "ALG"
+    },
+    {
+      "_ID": 5,
+      "CountryName": "American Samoa",
+      "CountryAbrev": "ASA"
+    },
+    {
+      "_ID": 6,
+      "CountryName": "Andorra",
+      "CountryAbrev": "AND"
+    },
+    {
+      "_ID": 7,
+      "CountryName": "Angola",
+      "CountryAbrev": "ANG"
+    },
+    {
+      "_ID": 8,
+      "CountryName": "Antigua and Barbuda",
+      "CountryAbrev": "ANT"
+    },
+    {
+      "_ID": 9,
+      "CountryName": "Argentina",
+      "CountryAbrev": "ARG"
+    },
+    {
+      "_ID": 10,
+      "CountryName": "Armenia",
+      "CountryAbrev": "ARM"
+    },
+    {
+      "_ID": 11,
+      "CountryName": "Aruba",
+      "CountryAbrev": "ARU"
+    },
+    {
+      "_ID": 12,
+      "CountryName": "Australia",
+      "CountryAbrev": "AUS"
+    },
+    {
+      "_ID": 13,
+      "CountryName": "Austria",
+      "CountryAbrev": "AUT"
+    },
+    {
+      "_ID": 14,
+      "CountryName": "Azerbaijan",
+      "CountryAbrev": "AZE"
+    },
+    {
+      "_ID": 15,
+      "CountryName": "Bahamas",
+      "CountryAbrev": "BAH"
+    },
+    {
+      "_ID": 16,
+      "CountryName": "Bahrain",
+      "CountryAbrev": "BRN"
+    },
+    {
+      "_ID": 17,
+      "CountryName": "Bangladesh",
+      "CountryAbrev": "BAN"
+    },
+    {
+      "_ID": 18,
+      "CountryName": "Barbados",
+      "CountryAbrev": "BAR"
+    },
+    {
+      "_ID": 19,
+      "CountryName": "Belarus",
+      "CountryAbrev": "BLR"
+    },
+    {
+      "_ID": 20,
+      "CountryName": "Belgium",
+      "CountryAbrev": "BEL"
+    },
+    {
+      "_ID": 21,
+      "CountryName": "Belize",
+      "CountryAbrev": "BIZ"
+    },
+    {
+      "_ID": 22,
+      "CountryName": "Benin",
+      "CountryAbrev": "BEN"
+    },
+    {
+      "_ID": 23,
+      "CountryName": "Bermuda",
+      "CountryAbrev": "BER"
+    },
+    {
+      "_ID": 24,
+      "CountryName": "Bhutan",
+      "CountryAbrev": "BHU"
+    },
+    {
+      "_ID": 25,
+      "CountryName": "Bolivia",
+      "CountryAbrev": "BOL"
+    },
+    {
+      "_ID": 26,
+      "CountryName": "Bosnia and Herzegovina",
+      "CountryAbrev": "BIH"
+    },
+    {
+      "_ID": 27,
+      "CountryName": "Botswana",
+      "CountryAbrev": "BOT"
+    },
+    {
+      "_ID": 28,
+      "CountryName": "Brazil",
+      "CountryAbrev": "BRA"
+    },
+    {
+      "_ID": 29,
+      "CountryName": "British Virgin Islands",
+      "CountryAbrev": "IVB"
+    },
+    {
+      "_ID": 30,
+      "CountryName": "Brunei",
+      "CountryAbrev": "BRU"
+    },
+    {
+      "_ID": 31,
+      "CountryName": "Bulgaria",
+      "CountryAbrev": "BUL"
+    },
+    {
+      "_ID": 32,
+      "CountryName": "Burkina Faso",
+      "CountryAbrev": "BUR"
+    },
+    {
+      "_ID": 33,
+      "CountryName": "Burundi",
+      "CountryAbrev": "BDI"
+    },
+    {
+      "_ID": 34,
+      "CountryName": "Cambodia",
+      "CountryAbrev": "CAM"
+    },
+    {
+      "_ID": 35,
+      "CountryName": "Cameroon",
+      "CountryAbrev": "CMR"
+    },
+    {
+      "_ID": 36,
+      "CountryName": "Canada",
+      "CountryAbrev": "CAN"
+    },
+    {
+      "_ID": 37,
+      "CountryName": "Cape Verde",
+      "CountryAbrev": "CPV"
+    },
+    {
+      "_ID": 38,
+      "CountryName": "Cayman Islands",
+      "CountryAbrev": "CAY"
+    },
+    {
+      "_ID": 39,
+      "CountryName": "Central African Republic",
+      "CountryAbrev": "CAF"
+    },
+    {
+      "_ID": 40,
+      "CountryName": "Chad",
+      "CountryAbrev": "CHA"
+    },
+    {
+      "_ID": 41,
+      "CountryName": "Chile",
+      "CountryAbrev": "CHI"
+    },
+    {
+      "_ID": 42,
+      "CountryName": "China",
+      "CountryAbrev": "CHN"
+    },
+    {
+      "_ID": 43,
+      "CountryName": "Chinese Taipei",
+      "CountryAbrev": "TPE"
+    },
+    {
+      "_ID": 44,
+      "CountryName": "Colombia",
+      "CountryAbrev": "COL"
+    },
+    {
+      "_ID": 45,
+      "CountryName": "Comoros",
+      "CountryAbrev": "COM"
+    },
+    {
+      "_ID": 46,
+      "CountryName": "Cook Islands",
+      "CountryAbrev": "COK"
+    },
+    {
+      "_ID": 47,
+      "CountryName": "Costa Rica",
+      "CountryAbrev": "CRC"
+    },
+    {
+      "_ID": 48,
+      "CountryName": "Croatia",
+      "CountryAbrev": "CRO"
+    },
+    {
+      "_ID": 49,
+      "CountryName": "Cuba",
+      "CountryAbrev": "CUB"
+    },
+    {
+      "_ID": 50,
+      "CountryName": "Cyprus",
+      "CountryAbrev": "CYP"
+    },
+    {
+      "_ID": 51,
+      "CountryName": "Czech Republic",
+      "CountryAbrev": "CZE"
+    },
+    {
+      "_ID": 52,
+      "CountryName": "Democratic Republic of the Congo",
+      "CountryAbrev": "COD"
+    },
+    {
+      "_ID": 53,
+      "CountryName": "Denmark",
+      "CountryAbrev": "DEN"
+    },
+    {
+      "_ID": 54,
+      "CountryName": "Djibouti",
+      "CountryAbrev": "DJI"
+    },
+    {
+      "_ID": 55,
+      "CountryName": "Dominica",
+      "CountryAbrev": "DMA"
+    },
+    {
+      "_ID": 56,
+      "CountryName": "Dominican Republic",
+      "CountryAbrev": "DOM"
+    },
+    {
+      "_ID": 57,
+      "CountryName": "East Timor",
+      "CountryAbrev": "TLS"
+    },
+    {
+      "_ID": 58,
+      "CountryName": "Ecuador",
+      "CountryAbrev": "ECU"
+    },
+    {
+      "_ID": 59,
+      "CountryName": "Egypt",
+      "CountryAbrev": "EGY"
+    },
+    {
+      "_ID": 60,
+      "CountryName": "El Salvador",
+      "CountryAbrev": "ESA"
+    },
+    {
+      "_ID": 61,
+      "CountryName": "Equatorial Guinea",
+      "CountryAbrev": "GEQ"
+    },
+    {
+      "_ID": 62,
+      "CountryName": "Eritrea",
+      "CountryAbrev": "ERI"
+    },
+    {
+      "_ID": 63,
+      "CountryName": "Estonia",
+      "CountryAbrev": "EST"
+    },
+    {
+      "_ID": 64,
+      "CountryName": "Eswatini�Eswatini",
+      "CountryAbrev": "SWZ"
+    },
+    {
+      "_ID": 65,
+      "CountryName": "Ethiopia",
+      "CountryAbrev": "ETH"
+    },
+    {
+      "_ID": 66,
+      "CountryName": "Federated States of Micronesia",
+      "CountryAbrev": "FSM"
+    },
+    {
+      "_ID": 67,
+      "CountryName": "Fiji",
+      "CountryAbrev": "FIJ"
+    },
+    {
+      "_ID": 68,
+      "CountryName": "Finland",
+      "CountryAbrev": "FIN"
+    },
+    {
+      "_ID": 69,
+      "CountryName": "France",
+      "CountryAbrev": "FRA"
+    },
+    {
+      "_ID": 70,
+      "CountryName": "Gabon",
+      "CountryAbrev": "GAB"
+    },
+    {
+      "_ID": 71,
+      "CountryName": "Georgia",
+      "CountryAbrev": "GEO"
+    },
+    {
+      "_ID": 72,
+      "CountryName": "Germany",
+      "CountryAbrev": "GER"
+    },
+    {
+      "_ID": 73,
+      "CountryName": "Ghana",
+      "CountryAbrev": "GHA"
+    },
+    {
+      "_ID": 74,
+      "CountryName": "United Kingdom",
+      "CountryAbrev": "GBR"
+    },
+    {
+      "_ID": 75,
+      "CountryName": "Greece",
+      "CountryAbrev": "GRE"
+    },
+    {
+      "_ID": 76,
+      "CountryName": "Grenada",
+      "CountryAbrev": "GRN"
+    },
+    {
+      "_ID": 77,
+      "CountryName": "Guam",
+      "CountryAbrev": "GUM"
+    },
+    {
+      "_ID": 78,
+      "CountryName": "Guatemala",
+      "CountryAbrev": "GUA"
+    },
+    {
+      "_ID": 79,
+      "CountryName": "Guinea",
+      "CountryAbrev": "GUI"
+    },
+    {
+      "_ID": 80,
+      "CountryName": "Guinea-Bissau",
+      "CountryAbrev": "GBS"
+    },
+    {
+      "_ID": 81,
+      "CountryName": "Guyana",
+      "CountryAbrev": "GUY"
+    },
+    {
+      "_ID": 82,
+      "CountryName": "Haiti",
+      "CountryAbrev": "HAI"
+    },
+    {
+      "_ID": 83,
+      "CountryName": "Honduras",
+      "CountryAbrev": "HON"
+    },
+    {
+      "_ID": 84,
+      "CountryName": "Hong Kong",
+      "CountryAbrev": "HKG"
+    },
+    {
+      "_ID": 85,
+      "CountryName": "Hungary",
+      "CountryAbrev": "HUN"
+    },
+    {
+      "_ID": 86,
+      "CountryName": "Iceland",
+      "CountryAbrev": "ISL"
+    },
+    {
+      "_ID": 87,
+      "CountryName": "India",
+      "CountryAbrev": "IND"
+    },
+    {
+      "_ID": 88,
+      "CountryName": "Indonesia",
+      "CountryAbrev": "INA"
+    },
+    {
+      "_ID": 89,
+      "CountryName": "Iran",
+      "CountryAbrev": "IRI"
+    },
+    {
+      "_ID": 90,
+      "CountryName": "Iraq",
+      "CountryAbrev": "IRQ"
+    },
+    {
+      "_ID": 91,
+      "CountryName": "Ireland",
+      "CountryAbrev": "IRL"
+    },
+    {
+      "_ID": 92,
+      "CountryName": "Israel",
+      "CountryAbrev": "ISR"
+    },
+    {
+      "_ID": 93,
+      "CountryName": "Italy",
+      "CountryAbrev": "ITA"
+    },
+    {
+      "_ID": 94,
+      "CountryName": "Ivory Coast",
+      "CountryAbrev": "CIV"
+    },
+    {
+      "_ID": 95,
+      "CountryName": "Jamaica",
+      "CountryAbrev": "JAM"
+    },
+    {
+      "_ID": 96,
+      "CountryName": "Japan",
+      "CountryAbrev": "JPN"
+    },
+    {
+      "_ID": 97,
+      "CountryName": "Jordan",
+      "CountryAbrev": "JOR"
+    },
+    {
+      "_ID": 98,
+      "CountryName": "Kazakhstan",
+      "CountryAbrev": "KAZ"
+    },
+    {
+      "_ID": 99,
+      "CountryName": "Kenya",
+      "CountryAbrev": "KEN"
+    },
+    {
+      "_ID": 100,
+      "CountryName": "Kiribati",
+      "CountryAbrev": "KIR"
+    },
+    {
+      "_ID": 101,
+      "CountryName": "Kosovo",
+      "CountryAbrev": "KOS"
+    },
+    {
+      "_ID": 102,
+      "CountryName": "Kuwait",
+      "CountryAbrev": "KUW"
+    },
+    {
+      "_ID": 103,
+      "CountryName": "Kyrgyzstan",
+      "CountryAbrev": "KGZ"
+    },
+    {
+      "_ID": 104,
+      "CountryName": "Laos",
+      "CountryAbrev": "LAO"
+    },
+    {
+      "_ID": 105,
+      "CountryName": "Latvia",
+      "CountryAbrev": "LAT"
+    },
+    {
+      "_ID": 106,
+      "CountryName": "Lebanon",
+      "CountryAbrev": "LBN"
+    },
+    {
+      "_ID": 107,
+      "CountryName": "Lesotho",
+      "CountryAbrev": "LES"
+    },
+    {
+      "_ID": 108,
+      "CountryName": "Liberia",
+      "CountryAbrev": "LBR"
+    },
+    {
+      "_ID": 109,
+      "CountryName": "Libya",
+      "CountryAbrev": "LBA"
+    },
+    {
+      "_ID": 110,
+      "CountryName": "Liechtenstein",
+      "CountryAbrev": "LIE"
+    },
+    {
+      "_ID": 111,
+      "CountryName": "Lithuania",
+      "CountryAbrev": "LTU"
+    },
+    {
+      "_ID": 112,
+      "CountryName": "Luxembourg",
+      "CountryAbrev": "LUX"
+    },
+    {
+      "_ID": 113,
+      "CountryName": "Madagascar",
+      "CountryAbrev": "MAD"
+    },
+    {
+      "_ID": 114,
+      "CountryName": "Malawi",
+      "CountryAbrev": "MAW"
+    },
+    {
+      "_ID": 115,
+      "CountryName": "Malaysia",
+      "CountryAbrev": "MAS"
+    },
+    {
+      "_ID": 116,
+      "CountryName": "Maldives",
+      "CountryAbrev": "MDV"
+    },
+    {
+      "_ID": 117,
+      "CountryName": "Mali",
+      "CountryAbrev": "MLI"
+    },
+    {
+      "_ID": 118,
+      "CountryName": "Malta",
+      "CountryAbrev": "MLT"
+    },
+    {
+      "_ID": 119,
+      "CountryName": "Marshall Islands",
+      "CountryAbrev": "MHL"
+    },
+    {
+      "_ID": 120,
+      "CountryName": "Mauritania",
+      "CountryAbrev": "MTN"
+    },
+    {
+      "_ID": 121,
+      "CountryName": "Mauritius",
+      "CountryAbrev": "MRI"
+    },
+    {
+      "_ID": 122,
+      "CountryName": "Mexico",
+      "CountryAbrev": "MEX"
+    },
+    {
+      "_ID": 123,
+      "CountryName": "Moldova",
+      "CountryAbrev": "MDA"
+    },
+    {
+      "_ID": 124,
+      "CountryName": "Monaco",
+      "CountryAbrev": "MON"
+    },
+    {
+      "_ID": 125,
+      "CountryName": "Mongolia",
+      "CountryAbrev": "MGL"
+    },
+    {
+      "_ID": 126,
+      "CountryName": "Montenegro",
+      "CountryAbrev": "MNE"
+    },
+    {
+      "_ID": 127,
+      "CountryName": "Morocco",
+      "CountryAbrev": "MAR"
+    },
+    {
+      "_ID": 128,
+      "CountryName": "Mozambique",
+      "CountryAbrev": "MOZ"
+    },
+    {
+      "_ID": 129,
+      "CountryName": "Myanmar",
+      "CountryAbrev": "MYA"
+    },
+    {
+      "_ID": 130,
+      "CountryName": "Namibia",
+      "CountryAbrev": "NAM"
+    },
+    {
+      "_ID": 131,
+      "CountryName": "Nauru",
+      "CountryAbrev": "NRU"
+    },
+    {
+      "_ID": 132,
+      "CountryName": "Nepal",
+      "CountryAbrev": "NEP"
+    },
+    {
+      "_ID": 133,
+      "CountryName": "Netherlands",
+      "CountryAbrev": "NED"
+    },
+    {
+      "_ID": 134,
+      "CountryName": "New Zealand",
+      "CountryAbrev": "NZL"
+    },
+    {
+      "_ID": 135,
+      "CountryName": "Nicaragua",
+      "CountryAbrev": "NCA"
+    },
+    {
+      "_ID": 136,
+      "CountryName": "Niger",
+      "CountryAbrev": "NIG"
+    },
+    {
+      "_ID": 137,
+      "CountryName": "Nigeria",
+      "CountryAbrev": "NGR"
+    },
+    {
+      "_ID": 138,
+      "CountryName": "North Korea",
+      "CountryAbrev": "PRK"
+    },
+    {
+      "_ID": 139,
+      "CountryName": "North Macedonia",
+      "CountryAbrev": "MKD"
+    },
+    {
+      "_ID": 140,
+      "CountryName": "Norway",
+      "CountryAbrev": "NOR"
+    },
+    {
+      "_ID": 141,
+      "CountryName": "Oman",
+      "CountryAbrev": "OMA"
+    },
+    {
+      "_ID": 142,
+      "CountryName": "Pakistan",
+      "CountryAbrev": "PAK"
+    },
+    {
+      "_ID": 143,
+      "CountryName": "Palau",
+      "CountryAbrev": "PLW"
+    },
+    {
+      "_ID": 144,
+      "CountryName": "Palestine",
+      "CountryAbrev": "PLE"
+    },
+    {
+      "_ID": 145,
+      "CountryName": "Panama",
+      "CountryAbrev": "PAN"
+    },
+    {
+      "_ID": 146,
+      "CountryName": "Papua New Guinea",
+      "CountryAbrev": "PNG"
+    },
+    {
+      "_ID": 147,
+      "CountryName": "Paraguay",
+      "CountryAbrev": "PAR"
+    },
+    {
+      "_ID": 148,
+      "CountryName": "Peru",
+      "CountryAbrev": "PER"
+    },
+    {
+      "_ID": 149,
+      "CountryName": "Philippines",
+      "CountryAbrev": "PHI"
+    },
+    {
+      "_ID": 150,
+      "CountryName": "Poland",
+      "CountryAbrev": "POL"
+    },
+    {
+      "_ID": 151,
+      "CountryName": "Portugal",
+      "CountryAbrev": "POR"
+    },
+    {
+      "_ID": 152,
+      "CountryName": "Puerto Rico",
+      "CountryAbrev": "PUR"
+    },
+    {
+      "_ID": 153,
+      "CountryName": "Qatar",
+      "CountryAbrev": "QAT"
+    },
+    {
+      "_ID": 154,
+      "CountryName": "Republic of the Congo",
+      "CountryAbrev": "CGO"
+    },
+    {
+      "_ID": 155,
+      "CountryName": "Romania",
+      "CountryAbrev": "ROU"
+    },
+    {
+      "_ID": 156,
+      "CountryName": "Russia",
+      "CountryAbrev": "RUS"
+    },
+    {
+      "_ID": 157,
+      "CountryName": "Rwanda",
+      "CountryAbrev": "RWA"
+    },
+    {
+      "_ID": 158,
+      "CountryName": "Saint Kitts and Nevis",
+      "CountryAbrev": "SKN"
+    },
+    {
+      "_ID": 159,
+      "CountryName": "Saint Lucia",
+      "CountryAbrev": "LCA"
+    },
+    {
+      "_ID": 160,
+      "CountryName": "Saint Vincent and the Grenadines",
+      "CountryAbrev": "VIN"
+    },
+    {
+      "_ID": 161,
+      "CountryName": "Samoa",
+      "CountryAbrev": "SAM"
+    },
+    {
+      "_ID": 162,
+      "CountryName": "San Marino",
+      "CountryAbrev": "SMR"
+    },
+    {
+      "_ID": 163,
+      "CountryName": "S�o Tom� and Pr�ncipe",
+      "CountryAbrev": "STP"
+    },
+    {
+      "_ID": 164,
+      "CountryName": "Saudi Arabia",
+      "CountryAbrev": "KSA"
+    },
+    {
+      "_ID": 165,
+      "CountryName": "Senegal",
+      "CountryAbrev": "SEN"
+    },
+    {
+      "_ID": 166,
+      "CountryName": "Serbia",
+      "CountryAbrev": "SRB"
+    },
+    {
+      "_ID": 167,
+      "CountryName": "Seychelles",
+      "CountryAbrev": "SEY"
+    },
+    {
+      "_ID": 168,
+      "CountryName": "Sierra Leone",
+      "CountryAbrev": "SLE"
+    },
+    {
+      "_ID": 169,
+      "CountryName": "Singapore",
+      "CountryAbrev": "SGP"
+    },
+    {
+      "_ID": 170,
+      "CountryName": "Slovakia",
+      "CountryAbrev": "SVK"
+    },
+    {
+      "_ID": 171,
+      "CountryName": "Slovenia",
+      "CountryAbrev": "SLO"
+    },
+    {
+      "_ID": 172,
+      "CountryName": "Solomon Islands",
+      "CountryAbrev": "SOL"
+    },
+    {
+      "_ID": 173,
+      "CountryName": "Somalia",
+      "CountryAbrev": "SOM"
+    },
+    {
+      "_ID": 174,
+      "CountryName": "South Africa",
+      "CountryAbrev": "RSA"
+    },
+    {
+      "_ID": 175,
+      "CountryName": "South Korea",
+      "CountryAbrev": "KOR"
+    },
+    {
+      "_ID": 176,
+      "CountryName": "South Sudan",
+      "CountryAbrev": "SSD"
+    },
+    {
+      "_ID": 177,
+      "CountryName": "Spain",
+      "CountryAbrev": "ESP"
+    },
+    {
+      "_ID": 178,
+      "CountryName": "Sri Lanka",
+      "CountryAbrev": "SRI"
+    },
+    {
+      "_ID": 179,
+      "CountryName": "Sudan",
+      "CountryAbrev": "SUD"
+    },
+    {
+      "_ID": 180,
+      "CountryName": "Suriname",
+      "CountryAbrev": "SUR"
+    },
+    {
+      "_ID": 181,
+      "CountryName": "Sweden",
+      "CountryAbrev": "SWE"
+    },
+    {
+      "_ID": 182,
+      "CountryName": "Switzerland",
+      "CountryAbrev": "SUI"
+    },
+    {
+      "_ID": 183,
+      "CountryName": "Syria",
+      "CountryAbrev": "SYR"
+    },
+    {
+      "_ID": 184,
+      "CountryName": "Tajikistan",
+      "CountryAbrev": "TJK"
+    },
+    {
+      "_ID": 185,
+      "CountryName": "Tanzania",
+      "CountryAbrev": "TAN"
+    },
+    {
+      "_ID": 186,
+      "CountryName": "Thailand",
+      "CountryAbrev": "THA"
+    },
+    {
+      "_ID": 187,
+      "CountryName": "The Gambia",
+      "CountryAbrev": "GAM"
+    },
+    {
+      "_ID": 188,
+      "CountryName": "Togo",
+      "CountryAbrev": "TOG"
+    },
+    {
+      "_ID": 189,
+      "CountryName": "Tonga",
+      "CountryAbrev": "TGA"
+    },
+    {
+      "_ID": 190,
+      "CountryName": "Trinidad and Tobago",
+      "CountryAbrev": "TTO"
+    },
+    {
+      "_ID": 191,
+      "CountryName": "Tunisia",
+      "CountryAbrev": "TUN"
+    },
+    {
+      "_ID": 192,
+      "CountryName": "Turkey",
+      "CountryAbrev": "TUR"
+    },
+    {
+      "_ID": 193,
+      "CountryName": "Turkmenistan",
+      "CountryAbrev": "TKM"
+    },
+    {
+      "_ID": 194,
+      "CountryName": "Tuvalu",
+      "CountryAbrev": "TUV"
+    },
+    {
+      "_ID": 195,
+      "CountryName": "Uganda",
+      "CountryAbrev": "UGA"
+    },
+    {
+      "_ID": 196,
+      "CountryName": "Ukraine",
+      "CountryAbrev": "UKR"
+    },
+    {
+      "_ID": 197,
+      "CountryName": "United Arab Emirates",
+      "CountryAbrev": "UAE"
+    },
+    {
+      "_ID": 198,
+      "CountryName": "USA",
+      "CountryAbrev": "USA"
+    },
+    {
+      "_ID": 199,
+      "CountryName": "Uruguay",
+      "CountryAbrev": "URU"
+    },
+    {
+      "_ID": 200,
+      "CountryName": "Uzbekistan",
+      "CountryAbrev": "UZB"
+    },
+    {
+      "_ID": 201,
+      "CountryName": "Vanuatu",
+      "CountryAbrev": "VAN"
+    },
+    {
+      "_ID": 202,
+      "CountryName": "Venezuela",
+      "CountryAbrev": "VEN"
+    },
+    {
+      "_ID": 203,
+      "CountryName": "Vietnam",
+      "CountryAbrev": "VIE"
+    },
+    {
+      "_ID": 204,
+      "CountryName": "Virgin Islands",
+      "CountryAbrev": "ISV"
+    },
+    {
+      "_ID": 205,
+      "CountryName": "Yemen",
+      "CountryAbrev": "YEM"
+    },
+    {
+      "_ID": 206,
+      "CountryName": "Zambia",
+      "CountryAbrev": "ZAM"
+    },
+    {
+      "_ID": 207,
+      "CountryName": "Zimbabwe",
+      "CountryAbrev": "ZIM"
     }
   ],
   "meta": {
