@@ -1,0 +1,77 @@
+{
+  "details": "Category List for Grandma's Cookies.",
+  "categoryList": [
+    {
+      "_category_id": 1,
+      "_category_name": "Mennonite Dishes"
+    },
+    {
+      "_category_id": 2,
+      "_category_name": "Butchering"
+    },
+    {
+      "_category_id": 3,
+      "_category_name": "Bread and Rolls"
+    },
+    {
+      "_category_id": 4,
+      "_category_name": "Quick Breads"
+    },
+    {
+      "_category_id": 5,
+      "_category_name": "Tea Biscuits"
+    },
+    {
+      "_category_id": 6,
+      "_category_name": "Batters and Doughs"
+    },
+    {
+      "_category_id": 7,
+      "_category_name": "Soups"
+    },
+    {
+      "_category_id": 8,
+      "_category_name": "Salads & Dressings"
+    },
+    {
+      "_category_id": 9,
+      "_category_name": "Meat, Poultry & Fish"
+    },
+    {
+      "_category_id": 10,
+      "_category_name": "Supper and Casserole Dishes"
+    },
+    {
+      "_category_id": 11,
+      "_category_name": "Vegetables"
+    },
+    {
+      "_category_id": 12,
+      "_category_name": "Pies & Pastry"
+    },
+    {
+      "_category_id": 13,
+      "_category_name": "Cakes of All Kinds"
+    },
+    {
+      "_category_id": 14,
+      "_category_name": "Squares & Slices"
+    },
+    {
+      "_category_id": 15,
+      "_category_name": "Cookies and Dainties"
+    },
+    {
+      "_category_id": 16,
+      "_category_name": "Frostings, Fillings and Sauces"
+    },
+    {
+      "_category_id": 17,
+      "_category_name": "Candy"
+    },
+    {
+      "_category_id": 18,
+      "_category_name": "Low Calorie Dishes"
+    }
+  ]
+}
