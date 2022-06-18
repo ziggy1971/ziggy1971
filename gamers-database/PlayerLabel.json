@@ -1,0 +1,22 @@
+[
+    {
+        "LabelID": 1,
+        "PlayerID": 60267,
+        "_ID": 1
+    },
+    {
+        "LabelID": 1,
+        "PlayerID": 64030,
+        "_ID": 2
+    },
+    {
+        "LabelID": 1,
+        "PlayerID": 22184,
+        "_ID": 3
+    },
+    {
+        "LabelID": 3,
+        "PlayerID": 22184,
+        "_ID": 4
+    }
+]
