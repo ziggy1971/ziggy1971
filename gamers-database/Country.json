@@ -2,7 +2,7 @@
     {
         "Alias": "3do",
         "CPU": "32-bit 12.5 MHz RISC CPU (ARM60)",
-        "CountryID": 25,
+        "CountryID": 1,
         "CountryName": "3DO",
         "Developer": "The 3DO Company",
         "Display": "640×480",
@@ -21,7 +21,7 @@
     {
         "Alias": "acorn-archimedes",
         "CPU": "Acorn RISC Machine",
-        "CountryID": 4944,
+        "CountryID": 2,
         "CountryName": "Acorn Archimedes",
         "Developer": "Acorn Computers",
         "Display": "",
@@ -40,7 +40,7 @@
     {
         "Alias": "acorn-electron",
         "CPU": "MOS Technology 6502A with 2/1 MHz",
-        "CountryID": 4954,
+        "CountryID": 3,
         "CountryName": "Acorn Electron",
         "Developer": "Acorn Computers",
         "Display": "RF modulator, composite video, RGB monitor output",
@@ -59,7 +59,7 @@
     {
         "Alias": "action-max",
         "CPU": "",
-        "CountryID": 4976,
+        "CountryID": 4,
         "CountryName": "Action Max",
         "Developer": "",
         "Display": "",
@@ -78,7 +78,7 @@
     {
         "Alias": "amiga",
         "CPU": "Motorola 68000",
-        "CountryID": 4911,
+        "CountryID": 5,
         "CountryName": "Amiga",
         "Developer": "Commodore",
         "Display": "1024×800 for NTSC and 1024×1024 for PAL",
@@ -97,7 +97,7 @@
     {
         "Alias": "amiga-cd32",
         "CPU": "Motorola 68EC020",
-        "CountryID": 4947,
+        "CountryID": 6,
         "CountryName": "Amiga CD32",
         "Developer": "Commodore",
         "Display": "320×256",
@@ -116,7 +116,7 @@
     {
         "Alias": "amstrad-cpc",
         "CPU": "Zilog Z80A @ 4 MHz",
-        "CountryID": 4914,
+        "CountryID": 7,
         "CountryName": "Amstrad CPC",
         "Developer": "Amstrad",
         "Display": "",
@@ -135,7 +135,7 @@
     {
         "Alias": "android",
         "CPU": "",
-        "CountryID": 4916,
+        "CountryID": 8,
         "CountryName": "Android",
         "Developer": "Google, Android Inc.",
         "Display": "",
@@ -154,7 +154,7 @@
     {
         "Alias": "apf-mp-1000",
         "CPU": "",
-        "CountryID": 4969,
+        "CountryID": 9,
         "CountryName": "APF MP-1000",
         "Developer": "APF Electronics Inc",
         "Display": "",
@@ -173,7 +173,7 @@
     {
         "Alias": "apple2",
         "CPU": "MOS Technology 6502",
-        "CountryID": 4942,
+        "CountryID": 10,
         "CountryName": "Apple II",
         "Developer": "Apple",
         "Display": "",
@@ -192,7 +192,7 @@
     {
         "Alias": "arcade",
         "CPU": "",
-        "CountryID": 23,
+        "CountryID": 11,
         "CountryName": "Arcade",
         "Developer": "",
         "Display": "",
@@ -211,7 +211,7 @@
     {
         "Alias": "atari-2600",
         "CPU": "MOS Technology 6507",
-        "CountryID": 22,
+        "CountryID": 12,
         "CountryName": "Atari 2600",
         "Developer": "Atari",
         "Display": "",
@@ -230,7 +230,7 @@
     {
         "Alias": "atari-5200",
         "CPU": "MOS 6502C",
-        "CountryID": 26,
+        "CountryID": 13,
         "CountryName": "Atari 5200",
         "Developer": "Atari",
         "Display": "320×192",
@@ -249,7 +249,7 @@
     {
         "Alias": "atari-7800",
         "CPU": "Atari SALLY 6502 (\"6502C\")",
-        "CountryID": 27,
+        "CountryID": 14,
         "CountryName": "Atari 7800",
         "Developer": "Atari",
         "Display": "320×240",
@@ -268,7 +268,7 @@
     {
         "Alias": "atari800",
         "CPU": "MOS Technology 6502B",
-        "CountryID": 4943,
+        "CountryID": 15,
         "CountryName": "Atari 800",
         "Developer": "Atari Corporation",
         "Display": "",
@@ -287,7 +287,7 @@
     {
         "Alias": "atari-jaguar",
         "CPU": "\"Jerry\" Chip, 26.59 MHz",
-        "CountryID": 28,
+        "CountryID": 16,
         "CountryName": "Atari Jaguar",
         "Developer": "Atari",
         "Display": "",
@@ -306,7 +306,7 @@
     {
         "Alias": "atari-jaguar-cd",
         "CPU": "2 CPU - 26.59 MHz",
-        "CountryID": 29,
+        "CountryID": 17,
         "CountryName": "Atari Jaguar CD",
         "Developer": "Atari",
         "Display": "",
@@ -325,7 +325,7 @@
     {
         "Alias": "atari-lynx",
         "CPU": "MOS Technology 6502",
-        "CountryID": 4924,
+        "CountryID": 18,
         "CountryName": "Atari Lynx",
         "Developer": "Epyx / Atari",
         "Display": "",
@@ -344,7 +344,7 @@
     {
         "Alias": "atari-st",
         "CPU": "Motorola 680x0 @ 8 MHz & higher",
-        "CountryID": 4937,
+        "CountryID": 19,
         "CountryName": "Atari ST",
         "Developer": "Atari Corporation",
         "Display": "",
@@ -363,7 +363,7 @@
     {
         "Alias": "atari-xe",
         "CPU": "6502",
-        "CountryID": 30,
+        "CountryID": 20,
         "CountryName": "Atari XE",
         "Developer": "Atari",
         "Display": "",
@@ -382,7 +382,7 @@
     {
         "Alias": "bally-astrocade",
         "CPU": "",
-        "CountryID": 4968,
+        "CountryID": 21,
         "CountryName": "Bally Astrocade",
         "Developer": "Bally Manufacturing",
         "Display": "",
@@ -401,7 +401,7 @@
     {
         "Alias": "casio-pv-1000",
         "CPU": "Z80A clocked at 3.579 MHz",
-        "CountryID": 4964,
+        "CountryID": 22,
         "CountryName": "Casio PV-1000",
         "Developer": "Casio",
         "Display": "256x192 resolution, 8 colours",
@@ -420,7 +420,7 @@
     {
         "Alias": "coleco-telstar-arcade",
         "CPU": "",
-        "CountryID": 4970,
+        "CountryID": 23,
         "CountryName": "Coleco Telstar Arcade",
         "Developer": "Coleco",
         "Display": "",
@@ -439,7 +439,7 @@
     {
         "Alias": "colecovision",
         "CPU": "Zilog Z80",
-        "CountryID": 31,
+        "CountryID": 24,
         "CountryName": "Colecovision",
         "Developer": "Coleco",
         "Display": "256×192",
@@ -458,7 +458,7 @@
     {
         "Alias": "c128",
         "CPU": "Zilog Z80A @ 4 MHz",
-        "CountryID": 4946,
+        "CountryID": 25,
         "CountryName": "Commodore 128",
         "Developer": "Commodore International",
         "Display": "",
@@ -477,7 +477,7 @@
     {
         "Alias": "commodore-64",
         "CPU": "MOS Technology 6510",
-        "CountryID": 40,
+        "CountryID": 26,
         "CountryName": "Commodore 64",
         "Developer": "Commodore International",
         "Display": "320x200",
@@ -496,7 +496,7 @@
     {
         "Alias": "commodore-vic20",
         "CPU": "MOS Technology 6502",
-        "CountryID": 4945,
+        "CountryID": 27,
         "CountryName": "Commodore VIC-20",
         "Developer": "Commodore International",
         "Display": "",
@@ -515,7 +515,7 @@
     {
         "Alias": "dragon32-64",
         "CPU": "Motorola 6809E @ 0.89 MHz",
-        "CountryID": 4952,
+        "CountryID": 28,
         "CountryName": "Dragon 32/64",
         "Developer": "Dragon Data",
         "Display": "",
@@ -534,7 +534,7 @@
     {
         "Alias": "emerson-arcadia-2001",
         "CPU": "",
-        "CountryID": 4963,
+        "CountryID": 29,
         "CountryName": "Emerson Arcadia 2001",
         "Developer": "Emerson Radio",
         "Display": "",
@@ -553,7 +553,7 @@
     {
         "Alias": "entex-adventure-vision",
         "CPU": "Intel 8048 @ 733 kHz",
-        "CountryID": 4974,
+        "CountryID": 30,
         "CountryName": "Entex Adventure Vision",
         "Developer": "Entex Industries",
         "Display": "150x40 monochrome pixels",
@@ -572,7 +572,7 @@
     {
         "Alias": "entex-select-a-game",
         "CPU": "Space Invader 2 cartridge: Hitachi HD38800-A31",
-        "CountryID": 4973,
+        "CountryID": 31,
         "CountryName": "Entex Select-a-Game",
         "Developer": "Entex Industries",
         "Display": "7 x 16 vacuum fluorescent display (VFD)",
@@ -591,7 +591,7 @@
     {
         "Alias": "epoch-cassette-vision",
         "CPU": "",
-        "CountryID": 4965,
+        "CountryID": 32,
         "CountryName": "Epoch Cassette Vision",
         "Developer": "Epoch Co.",
         "Display": "",
@@ -610,7 +610,7 @@
     {
         "Alias": "epoch-super-cassette-vision",
         "CPU": "",
-        "CountryID": 4966,
+        "CountryID": 33,
         "CountryName": "Epoch Super Cassette Vision",
         "Developer": "Epoch Co.",
         "Display": "",
@@ -629,7 +629,7 @@
     {
         "Alias": "fairchild",
         "CPU": "",
-        "CountryID": 4928,
+        "CountryID": 34,
         "CountryName": "Fairchild Channel F",
         "Developer": "",
         "Display": "",
@@ -648,7 +648,7 @@
     {
         "Alias": "fds",
         "CPU": "Ricoh 2A03 8-bit processor",
-        "CountryID": 4936,
+        "CountryID": 35,
         "CountryName": "Famicom Disk System",
         "Developer": "Nintendo",
         "Display": "256x240",
@@ -667,7 +667,7 @@
     {
         "Alias": "fmtowns",
         "CPU": "AMD 386SX at 16 MHz",
-        "CountryID": 4932,
+        "CountryID": 36,
         "CountryName": "FM Towns Marty",
         "Developer": "Fujitsu",
         "Display": "",
@@ -686,7 +686,7 @@
     {
         "Alias": "fujitsu-fm-7",
         "CPU": "2x MBL 68B09 @ 2MHz",
-        "CountryID": 4978,
+        "CountryID": 37,
         "CountryName": "Fujitsu FM-7",
         "Developer": "Fujitsu",
         "Display": "640×200, 8 colors OR 320×200, 262144 colors",
@@ -705,7 +705,7 @@
     {
         "Alias": "gakken-compact-vision",
         "CPU": "",
-        "CountryID": 4962,
+        "CountryID": 38,
         "CountryName": "Gakken Compact Vision",
         "Developer": "Gakken Co., Ltd",
         "Display": "",
@@ -724,7 +724,7 @@
     {
         "Alias": "game-and-watch",
         "CPU": "",
-        "CountryID": 4950,
+        "CountryID": 39,
         "CountryName": "Game & Watch",
         "Developer": "Nintendo",
         "Display": "",
@@ -743,7 +743,7 @@
     {
         "Alias": "game-com",
         "CPU": "Sharp SM8521",
-        "CountryID": 4940,
+        "CountryID": 40,
         "CountryName": "Game.com",
         "Developer": "Tiger Electronics",
         "Display": "200 x 160",
@@ -762,7 +762,7 @@
     {
         "Alias": "lcd",
         "CPU": "",
-        "CountryID": 4951,
+        "CountryID": 41,
         "CountryName": "Handheld Electronic Games (LCD)",
         "Developer": "Tiger Electronics, V-Tech, Coleco, Bandai, Konami",
         "Display": "",
@@ -781,7 +781,7 @@
     {
         "Alias": "intellivision",
         "CPU": "GI CP1610",
-        "CountryID": 32,
+        "CountryID": 42,
         "CountryName": "Intellivision",
         "Developer": "Mattel",
         "Display": "159x96",
@@ -800,7 +800,7 @@
     {
         "Alias": "ios",
         "CPU": "",
-        "CountryID": 4915,
+        "CountryID": 43,
         "CountryName": "iOS",
         "Developer": "Apple",
         "Display": "",
@@ -819,7 +819,7 @@
     {
         "Alias": "mac-os",
         "CPU": "",
-        "CountryID": 37,
+        "CountryID": 44,
         "CountryName": "Mac OS",
         "Developer": "Apple",
         "Display": "",
@@ -838,7 +838,7 @@
     {
         "Alias": "magnavox-odyssey",
         "CPU": "",
-        "CountryID": 4961,
+        "CountryID": 45,
         "CountryName": "Magnavox Odyssey 1",
         "Developer": "Magnavox",
         "Display": "",
@@ -857,7 +857,7 @@
     {
         "Alias": "magnavox-odyssey-2",
         "CPU": "Intel 8048",
-        "CountryID": 4927,
+        "CountryID": 46,
         "CountryName": "Magnavox Odyssey 2",
         "Developer": "Magnavox / Philips",
         "Display": "16-color fixed palette; sprites may only use 8 of these colors",
@@ -876,7 +876,7 @@
     {
         "Alias": "megaduck",
         "CPU": "Zilog Z80A @ 4 MHz",
-        "CountryID": 4948,
+        "CountryID": 47,
         "CountryName": "Mega Duck",
         "Developer": "Welback Holdings",
         "Display": "160×144",
@@ -895,7 +895,7 @@
     {
         "Alias": "microsoft-xbox",
         "CPU": "Custom 733 MHz Intel Pentium III \"Coppermine-based\" processor",
-        "CountryID": 14,
+        "CountryID": 48,
         "CountryName": "Microsoft Xbox",
         "Developer": "Microsoft",
         "Display": "480i, 480p, 576i, 576p, 720p, 1080i",
@@ -914,7 +914,7 @@
     {
         "Alias": "microsoft-xbox-360",
         "CPU": "3.2 GHz PowerPC Tri-Core Xenon",
-        "CountryID": 15,
+        "CountryID": 49,
         "CountryName": "Microsoft Xbox 360",
         "Developer": "Microsoft",
         "Display": "1920x1080",
@@ -933,7 +933,7 @@
     {
         "Alias": "microsoft-xbox-one",
         "CPU": "AMD 8 Core APU (2 Quad Core Jaguar Modules)",
-        "CountryID": 4920,
+        "CountryID": 50,
         "CountryName": "Microsoft Xbox One",
         "Developer": "Microsoft",
         "Display": "HDMI",
@@ -952,7 +952,7 @@
     {
         "Alias": "milton-bradley-microvision",
         "CPU": "Texas Instruments TMS1100 (On cartridge) (Early cartridges were Intel 8021)",
-        "CountryID": 4972,
+        "CountryID": 51,
         "CountryName": "Milton Bradley Microvision",
         "Developer": "Milton Bradley",
         "Display": "",
@@ -971,7 +971,7 @@
     {
         "Alias": "msx",
         "CPU": "",
-        "CountryID": 4929,
+        "CountryID": 52,
         "CountryName": "MSX",
         "Developer": "ASCII Corporation",
         "Display": "",
@@ -990,7 +990,7 @@
     {
         "Alias": "ngage",
         "CPU": "104 MHz ARM 920T",
-        "CountryID": 4938,
+        "CountryID": 53,
         "CountryName": "N-Gage",
         "Developer": "Nokia",
         "Display": "",
@@ -1009,7 +1009,7 @@
     {
         "Alias": "neogeo",
         "CPU": "Motorola 68000",
-        "CountryID": 24,
+        "CountryID": 54,
         "CountryName": "Neo Geo",
         "Developer": "SNK",
         "Display": "320×224",
@@ -1028,7 +1028,7 @@
     {
         "Alias": "neo-geo-cd",
         "CPU": "Motorola 68000 at 12 MHz",
-        "CountryID": 4956,
+        "CountryID": 55,
         "CountryName": "Neo Geo CD",
         "Developer": "SNK",
         "Display": "",
@@ -1047,7 +1047,7 @@
     {
         "Alias": "neo-geo-pocket",
         "CPU": "Toshiba TLCS900H",
-        "CountryID": 4922,
+        "CountryID": 56,
         "CountryName": "Neo Geo Pocket",
         "Developer": "SNK",
         "Display": "Virtual screen 256×256 - 16 palettes/plane, 64 sprites/frame",
@@ -1066,7 +1066,7 @@
     {
         "Alias": "neo-geo-pocket-color",
         "CPU": "Toshiba TLCS900H core (16-bit), 6.144 MHz, Z80 at 3.072 MHz for sound",
-        "CountryID": 4923,
+        "CountryID": 57,
         "CountryName": "Neo Geo Pocket Color",
         "Developer": "SNK",
         "Display": "16 palettes per plane, 48 palettes. 146 colors on screen out of 4096 (or 20 colors out of 4096 in monochrome mode)",
@@ -1085,7 +1085,7 @@
     {
         "Alias": "nintendo-3ds",
         "CPU": "Nintendo ARM",
-        "CountryID": 4912,
+        "CountryID": 58,
         "CountryName": "Nintendo 3DS",
         "Developer": "Nintendo",
         "Display": "800 × 240 px (effectively 400 × 240 WQVGA per eye)",
@@ -1104,8 +1104,8 @@
     {
         "Alias": "nintendo-64",
         "CPU": "93.75 MHz NEC VR4300",
-        "CountryID": 3,
-        "CountryName": "Albania",
+        "CountryID": 59,
+        "CountryName": "Nintendo 64",
         "Developer": "Nintendo",
         "Display": "320 x 240 or 640 x 480 (supported by Expansion Pack)",
         "Graphics": "62.5 MHz SGI RCP",
@@ -1123,7 +1123,7 @@
     {
         "Alias": "nintendo-ds",
         "CPU": "ARM9",
-        "CountryID": 8,
+        "CountryID": 60,
         "CountryName": "Nintendo DS",
         "Developer": "Nintendo",
         "Display": "256 × 192",
@@ -1142,7 +1142,7 @@
     {
         "Alias": "nintendo-entertainment-system-nes",
         "CPU": "Ricoh 2A03",
-        "CountryID": 7,
+        "CountryID": 61,
         "CountryName": "Nintendo Entertainment System (NES)",
         "Developer": "Nintendo",
         "Display": "RGB",
@@ -1161,7 +1161,7 @@
     {
         "Alias": "nintendo-gameboy",
         "CPU": "Sharp LR35902",
-        "CountryID": 4,
+        "CountryID": 62,
         "CountryName": "Nintendo Game Boy",
         "Developer": "Nintendo",
         "Display": "160 × 144",
@@ -1180,7 +1180,7 @@
     {
         "Alias": "nintendo-gameboy-advance",
         "CPU": "ARM7TDMI",
-        "CountryID": 5,
+        "CountryID": 63,
         "CountryName": "Nintendo Game Boy Advance",
         "Developer": "Nintendo",
         "Display": "240 × 160",
@@ -1199,7 +1199,7 @@
     {
         "Alias": "nintendo-gameboy-color",
         "CPU": "Zilog Z80",
-        "CountryID": 41,
+        "CountryID": 64,
         "CountryName": "Nintendo Game Boy Color",
         "Developer": "Nintendo",
         "Display": "160 x 144",
@@ -1218,8 +1218,8 @@
     {
         "Alias": "nintendo-gamecube",
         "CPU": "486 MHz IBM \"Gekko\" PowerPC CPU",
-        "CountryID": 2,
-        "CountryName": "Afghanistan",
+        "CountryID": 65,
+        "CountryName": "Nintendo GameCube",
         "Developer": "Nintendo",
         "Display": "640×480 interlaced (480i) or progressive scan (480p) - 60 Hz",
         "Graphics": "162 MHz \"Flipper\" LSI (co-developed by Nintendo and ArtX, acquired by ATI)",
@@ -1237,7 +1237,7 @@
     {
         "Alias": "nintendo-pokmon-mini",
         "CPU": "S1C88 @ 4 MHz",
-        "CountryID": 4957,
+        "CountryID": 66,
         "CountryName": "Nintendo Pokémon Mini",
         "Developer": "Nintendo",
         "Display": "Monochrome LCD, 96 × 64 pixels",
@@ -1256,7 +1256,7 @@
     {
         "Alias": "nintendo-switch",
         "CPU": "Custom Nvidia Tegra (20 nm)",
-        "CountryID": 4971,
+        "CountryID": 67,
         "CountryName": "Nintendo Switch",
         "Developer": "Nintendo",
         "Display": "",
@@ -1275,7 +1275,7 @@
     {
         "Alias": "nintendo-virtual-boy",
         "CPU": "NEC V810",
-        "CountryID": 4918,
+        "CountryID": 68,
         "CountryName": "Nintendo Virtual Boy",
         "Developer": "Nintendo",
         "Display": "84 x 224 pixel resolution (produced by scanning a 1 × 224 LED array)",
@@ -1294,7 +1294,7 @@
     {
         "Alias": "nintendo-wii",
         "CPU": "PowerPC-based \"Broadway\" processor",
-        "CountryID": 9,
+        "CountryID": 69,
         "CountryName": "Nintendo Wii",
         "Developer": "Nintendo",
         "Display": "480p (PAL/NTSC), 480i (PAL/NTSC) or 576i (PAL/SECAM), standard 4:3 and 16:9 anamorphic widescreen",
@@ -1313,7 +1313,7 @@
     {
         "Alias": "nintendo-wii-u",
         "CPU": "IBM Power7",
-        "CountryID": 38,
+        "CountryID": 70,
         "CountryName": "Nintendo Wii U",
         "Developer": "Nintendo",
         "Display": "",
@@ -1332,7 +1332,7 @@
     {
         "Alias": "nuon",
         "CPU": "",
-        "CountryID": 4935,
+        "CountryID": 71,
         "CountryName": "Nuon",
         "Developer": "VM Labs",
         "Display": "",
@@ -1351,7 +1351,7 @@
     {
         "Alias": "ouya",
         "CPU": "Quad-core 1.7 GHz ARM Cortex-A9 MPCore",
-        "CountryID": 4921,
+        "CountryID": 72,
         "CountryName": "Ouya",
         "Developer": "Ouya, Inc.",
         "Display": "HDMI 1.4; 1080p or 720p resolution. Stereoscopic 3D support.",
@@ -1370,8 +1370,8 @@
     {
         "Alias": "pc",
         "CPU": "x86 Based",
-        "CountryID": 1,
-        "CountryName": " n/a",
+        "CountryID": 73,
+        "CountryName": "PC",
         "Developer": "IBM",
         "Display": "",
         "Graphics": "",
@@ -1389,7 +1389,7 @@
     {
         "Alias": "pc88",
         "CPU": "NEC µPD780 4 MHz",
-        "CountryID": 4933,
+        "CountryID": 74,
         "CountryName": "PC-88",
         "Developer": "NEC",
         "Display": "",
@@ -1408,7 +1408,7 @@
     {
         "Alias": "pc98",
         "CPU": "8086 5 MHz",
-        "CountryID": 4934,
+        "CountryID": 75,
         "CountryName": "PC-98",
         "Developer": "NEC",
         "Display": "640×400",
@@ -1427,7 +1427,7 @@
     {
         "Alias": "pcfx",
         "CPU": "NEC V810",
-        "CountryID": 4930,
+        "CountryID": 76,
         "CountryName": "PC-FX",
         "Developer": "NEC",
         "Display": "256x240p, 341x240p, 256x480i, 341x480i",
@@ -1446,7 +1446,7 @@
     {
         "Alias": "philips-cd-i",
         "CPU": "Philips SCC68070",
-        "CountryID": 4917,
+        "CountryID": 77,
         "CountryName": "Philips CD-i",
         "Developer": "Philips",
         "Display": "384×280 to 768×560",
@@ -1465,7 +1465,7 @@
     {
         "Alias": "",
         "CPU": "",
-        "CountryID": 4975,
+        "CountryID": 78,
         "CountryName": "Pioneer LaserActive",
         "Developer": "Pioneer",
         "Display": "",
@@ -1484,7 +1484,7 @@
     {
         "Alias": "rca-studio-ii",
         "CPU": "RCA 1802 microprocessor, 1.78 MHz",
-        "CountryID": 4967,
+        "CountryID": 79,
         "CountryName": "RCA Studio II",
         "Developer": "RCA",
         "Display": "",
@@ -1503,7 +1503,7 @@
     {
         "Alias": "",
         "CPU": "Zilog Z80B @ 6 MHz",
-        "CountryID": 4979,
+        "CountryID": 80,
         "CountryName": "SAM Coupé",
         "Developer": "Miles Gordon Technology",
         "Display": "256×192",
@@ -1522,7 +1522,7 @@
     {
         "Alias": "sega-32x",
         "CPU": "2 × SH-2 32-bit RISC",
-        "CountryID": 33,
+        "CountryID": 81,
         "CountryName": "Sega 32X",
         "Developer": "Sega",
         "Display": "320 × 240",
@@ -1541,7 +1541,7 @@
     {
         "Alias": "sega-cd",
         "CPU": "MC68000 @ 12.5 MHz",
-        "CountryID": 21,
+        "CountryID": 82,
         "CountryName": "Sega CD",
         "Developer": "Sega",
         "Display": "320 × 224",
@@ -1560,7 +1560,7 @@
     {
         "Alias": "sega-dreamcast",
         "CPU": "200 MHz Hitachi SH4 RISC",
-        "CountryID": 16,
+        "CountryID": 83,
         "CountryName": "Sega Dreamcast",
         "Developer": "Sega",
         "Display": "640 × 480",
@@ -1579,7 +1579,7 @@
     {
         "Alias": "sega-game-gear",
         "CPU": "Zilog Z80",
-        "CountryID": 20,
+        "CountryID": 84,
         "CountryName": "Sega Game Gear",
         "Developer": "Sega",
         "Display": "160 x 144",
@@ -1598,7 +1598,7 @@
     {
         "Alias": "sega-genesis",
         "CPU": "Motorola 68000",
-        "CountryID": 18,
+        "CountryID": 85,
         "CountryName": "Sega Genesis",
         "Developer": "Sega",
         "Display": "320×448",
@@ -1617,7 +1617,7 @@
     {
         "Alias": "sega-master-system",
         "CPU": "8-bit Zilog Z80",
-        "CountryID": 35,
+        "CountryID": 86,
         "CountryName": "Sega Master System",
         "Developer": "Sega",
         "Display": "256×240",
@@ -1636,7 +1636,7 @@
     {
         "Alias": "sega-mega-drive",
         "CPU": "16 bit Motorola 68000 CPU clocked at 7.6 MHz",
-        "CountryID": 36,
+        "CountryID": 87,
         "CountryName": "Sega Mega Drive",
         "Developer": "Sega",
         "Display": "Display up to 61 colors at once from a palette of 512",
@@ -1655,7 +1655,7 @@
     {
         "Alias": "sega-pico",
         "CPU": "Motorola 68000",
-        "CountryID": 4958,
+        "CountryID": 88,
         "CountryName": "Sega Pico",
         "Developer": "Sega",
         "Display": "320×448",
@@ -1674,7 +1674,7 @@
     {
         "Alias": "sega-saturn",
         "CPU": "2 × Hitachi SH-2 32-bit RISC",
-        "CountryID": 17,
+        "CountryID": 89,
         "CountryName": "Sega Saturn",
         "Developer": "Sega",
         "Display": "320x240",
@@ -1693,7 +1693,7 @@
     {
         "Alias": "sg1000",
         "CPU": "NEC 780C",
-        "CountryID": 4949,
+        "CountryID": 90,
         "CountryName": "SEGA SG-1000",
         "Developer": "SEGA",
         "Display": "256×192 resolution, 16 colours, 32 on-screen sprites",
@@ -1712,7 +1712,7 @@
     {
         "Alias": "sharp-x1",
         "CPU": "Zilog Z80A @ 4MHz",
-        "CountryID": 4977,
+        "CountryID": 91,
         "CountryName": "Sharp X1",
         "Developer": "Sharp",
         "Display": "320 x 200, 640 x 200",
@@ -1731,7 +1731,7 @@
     {
         "Alias": "x68",
         "CPU": "Hitachi HD68HC000 10 MHz",
-        "CountryID": 4931,
+        "CountryID": 92,
         "CountryName": "Sharp X68000",
         "Developer": "Sharp Corporation",
         "Display": "",
@@ -1750,7 +1750,7 @@
     {
         "Alias": "sinclair-zx-spectrum",
         "CPU": "Zilog Z80A @ 3.5 MHz and equivalent",
-        "CountryID": 4913,
+        "CountryID": 93,
         "CountryName": "Sinclair ZX Spectrum",
         "Developer": "Sinclair Research Ltd.",
         "Display": "RF modulator",
@@ -1769,7 +1769,7 @@
     {
         "Alias": "sony-playstation",
         "CPU": "MIPS R3000A-family R3051",
-        "CountryID": 10,
+        "CountryID": 94,
         "CountryName": "Sony Playstation",
         "Developer": "Sony",
         "Display": "640x480",
@@ -1788,7 +1788,7 @@
     {
         "Alias": "sony-playstation-2",
         "CPU": "64-bit \"Emotion Engine\"",
-        "CountryID": 11,
+        "CountryID": 95,
         "CountryName": "Sony Playstation 2",
         "Developer": "Sony",
         "Display": "1280x1024",
@@ -1807,7 +1807,7 @@
     {
         "Alias": "sony-playstation-3",
         "CPU": "3.2 GHz Cell Broadband Engine",
-        "CountryID": 12,
+        "CountryID": 96,
         "CountryName": "Sony Playstation 3",
         "Developer": "Sony",
         "Display": "1080p",
@@ -1826,7 +1826,7 @@
     {
         "Alias": "sony-playstation-4",
         "CPU": "",
-        "CountryID": 4919,
+        "CountryID": 97,
         "CountryName": "Sony Playstation 4",
         "Developer": "Sony",
         "Display": "",
@@ -1845,7 +1845,7 @@
     {
         "Alias": "sony-psp",
         "CPU": "MIPS R4000-based",
-        "CountryID": 13,
+        "CountryID": 98,
         "CountryName": "Sony Playstation Portable",
         "Developer": "Sony",
         "Display": "480 × 272",
@@ -1864,7 +1864,7 @@
     {
         "Alias": "sony-playstation-vita",
         "CPU": "4 core ARM Cortex-A9 MPCore",
-        "CountryID": 39,
+        "CountryID": 99,
         "CountryName": "Sony Playstation Vita",
         "Developer": "Sony",
         "Display": "5-inch OLED multi-touch capacitive touchscreen, 24-bit color, 960 × 544 qHD @ 220 ppi",
@@ -1883,7 +1883,7 @@
     {
         "Alias": "super-nintendo-snes",
         "CPU": "16-bit 65c816 Ricoh 5A22 3.58 MHz",
-        "CountryID": 6,
+        "CountryID": 100,
         "CountryName": "Super Nintendo (SNES)",
         "Developer": "Nintendo",
         "Display": "512 × 239",
@@ -1902,7 +1902,7 @@
     {
         "Alias": "texas-instruments-ti-99-4a",
         "CPU": "TI TMS9900 @ 3.0 MHz",
-        "CountryID": 4953,
+        "CountryID": 101,
         "CountryName": "Texas Instruments TI-99/4A",
         "Developer": "Texas Instruments",
         "Display": "",
@@ -1921,7 +1921,7 @@
     {
         "Alias": "tomy-pyta",
         "CPU": "",
-        "CountryID": 4960,
+        "CountryID": 102,
         "CountryName": "Tomy Tutor",
         "Developer": "Tomy",
         "Display": "",
@@ -1940,7 +1940,7 @@
     {
         "Alias": "trs80-color",
         "CPU": "Motorola 6809E @ 0.895 MHz / 1.79 MHz",
-        "CountryID": 4941,
+        "CountryID": 103,
         "CountryName": "TRS-80 Color Computer",
         "Developer": "Tandy Corporation",
         "Display": "",
@@ -1959,7 +1959,7 @@
     {
         "Alias": "turbografx-16",
         "CPU": "Hudson Soft HuC6280",
-        "CountryID": 34,
+        "CountryID": 104,
         "CountryName": "TurboGrafx 16",
         "Developer": "Hudson Soft",
         "Display": "256×239",
@@ -1978,7 +1978,7 @@
     {
         "Alias": "turbo-grafx-cd",
         "CPU": "",
-        "CountryID": 4955,
+        "CountryID": 105,
         "CountryName": "TurboGrafx CD",
         "Developer": "Nec",
         "Display": "",
@@ -1997,7 +1997,7 @@
     {
         "Alias": "vectrex",
         "CPU": "Motorola 68A09 @ 1.5 MHz",
-        "CountryID": 4939,
+        "CountryID": 106,
         "CountryName": "Vectrex",
         "Developer": "Western Technologies / Smith Engineering",
         "Display": "",
@@ -2016,7 +2016,7 @@
     {
         "Alias": "watara-supervision",
         "CPU": "8-bit 65C02 clocked at 4MHz",
-        "CountryID": 4959,
+        "CountryID": 107,
         "CountryName": "Watara Supervision",
         "Developer": "",
         "Display": "160×160 pixel resolution, 4 shades of grey",
@@ -2035,7 +2035,7 @@
     {
         "Alias": "wonderswan",
         "CPU": "16-bit NEC V30 MZ processor at 3.072 MHz",
-        "CountryID": 4925,
+        "CountryID": 108,
         "CountryName": "WonderSwan",
         "Developer": "Bandai",
         "Display": "224 x 144",
@@ -2054,7 +2054,7 @@
     {
         "Alias": "wonderswan-color",
         "CPU": "SPGY-1002, a 3.072 MHz 16-bit NEC V30MZ Clone",
-        "CountryID": 4926,
+        "CountryID": 109,
         "CountryName": "WonderSwan Color",
         "Developer": "Bandai",
         "Display": "224 x 144",
@@ -2073,7 +2073,7 @@
     {
         "Alias": "microsoft-xbox-series-x",
         "CPU": "AMD Ryzen Zen 2",
-        "CountryID": 4981,
+        "CountryID": 110,
         "CountryName": "Microsoft Xbox Series X",
         "Developer": "Microsoft",
         "Display": "HDMI",
@@ -2092,7 +2092,7 @@
     {
         "Alias": "r-zone",
         "CPU": "Sharp SM51X Series (On Cartridge, Can Vary)",
-        "CountryID": 4983,
+        "CountryID": 111,
         "CountryName": "R-Zone",
         "Developer": "Tiger Electronics",
         "Display": "",
@@ -2111,7 +2111,7 @@
     {
         "Alias": "sony-playstation-5",
         "CPU": "Zen 2",
-        "CountryID": 4980,
+        "CountryID": 112,
         "CountryName": "Sony Playstation 5",
         "Developer": "Sony",
         "Display": "",
@@ -2130,7 +2130,7 @@
     {
         "Alias": "tandy-vis",
         "CPU": "Intel 286",
-        "CountryID": 4982,
+        "CountryID": 113,
         "CountryName": "Tandy Visual Interactive System",
         "Developer": "Tandy",
         "Display": "",
@@ -2149,7 +2149,7 @@
     {
         "Alias": "xavix-port",
         "CPU": "6502/65816 CPU (On Cartilage)",
-        "CountryID": 19,
+        "CountryID": 114,
         "CountryName": "Xavix Port",
         "Developer": "SSD Company Limited",
         "Display": "",
