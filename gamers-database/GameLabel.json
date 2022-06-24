@@ -1,0 +1,27 @@
+[
+    {
+        "GameID": 55091,
+        "LabelID": 1,
+        "_ID": 1
+    },
+    {
+        "GameID": 53480,
+        "LabelID": 4,
+        "_ID": 2
+    },
+    {
+        "GameID": 53480,
+        "LabelID": 3,
+        "_ID": 3
+    },
+    {
+        "GameID": 53480,
+        "LabelID": 1,
+        "_ID": 4
+    },
+    {
+        "GameID": 33782,
+        "LabelID": 1,
+        "_ID": 5
+    }
+]

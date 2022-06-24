@@ -1,0 +1,29 @@
+[
+    {
+        "DigitalCopy": 0,
+        "GameID": 55091,
+        "Notes": null,
+        "Own": 1,
+        "Paid": 0.0,
+        "Value": 0.0,
+        "_ID": 1
+    },
+    {
+        "DigitalCopy": 0,
+        "GameID": 53480,
+        "Notes": null,
+        "Own": 1,
+        "Paid": 0.0,
+        "Value": 0.0,
+        "_ID": 2
+    },
+    {
+        "DigitalCopy": 0,
+        "GameID": 33782,
+        "Notes": null,
+        "Own": 1,
+        "Paid": 0.0,
+        "Value": 0.0,
+        "_ID": 3
+    }
+]
