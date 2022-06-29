@@ -1,0 +1,22 @@
+[
+    {
+        "BackgroundColor": "#ffa65900",
+        "Name": "Own",
+        "_ID": 1
+    },
+    {
+        "BackgroundColor": "#ff6d4387",
+        "Name": "Played",
+        "_ID": 2
+    },
+    {
+        "BackgroundColor": "#ff760404",
+        "Name": "Beat",
+        "_ID": 3
+    },
+    {
+        "BackgroundColor": "#ff5361a6",
+        "Name": "Bookmarked",
+        "_ID": 4
+    }
+]
